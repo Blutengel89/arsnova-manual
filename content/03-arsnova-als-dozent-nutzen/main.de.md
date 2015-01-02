@@ -1,6 +1,6 @@
 Title: ARSnova als Dozent nutzen
 
 ----
-Icon: prof
+Icon: presenter
 ----
 Text: 

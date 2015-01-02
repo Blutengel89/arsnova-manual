@@ -10,7 +10,7 @@
 					<img class="screenshot" src="<?php echo $image->url() ?>" alt="<?php echo $page->title() . "-" . $count ?>" /> 
 						<div class="carousel-caption">
 							<?php if($instruction['instruction'] != ""): ?>
-								<span class="number"><?php echo $count ?>.&nbsp;</span><?php $action = $instruction['instruction']; echo $action ?>
+								<!--span class="number"><?php echo $count ?>.&nbsp;</span--><h4 class="list"><?php echo html($instruction['instruction']); ?></h4>
 							<?php endif ?>
 							<?php if($instruction['result'] != ""): ?>
 								<div><?php echo markdown($instruction['result']) ?></div>

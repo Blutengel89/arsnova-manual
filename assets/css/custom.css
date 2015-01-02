@@ -116,9 +116,27 @@ item img{max-width:100%}
 .carousel-inner>.item>img{display:block;margin:0 auto}
 .carousel-control{width:25px}
 .carousel-control.left,.carousel-control.right{background-image:none;}
-.carousel-control .glyphicon-chevron-right{right:10%}
-.carousel-control .glyphicon-chevron-left{left:10%;}
+
 .glyphicon-chevron-right:before,
 .glyphicon-chevron-left:before {
   color: #4a5c66;
+}
+
+div.container .toggle-carousel,
+div.toggle-carousel .container {
+  width: auto;
+}
+h4.list {
+  margin-left: 20px;
+}
+h4.list:before {
+    color: #80ba24;
+    font-weight:500;
+    content: counter(ebene1) ". ";
+    counter-increment: ebene1;
+    width: 20px;
+    margin-left: -20px;
+}
+.carousel-caption div {
+  margin-left: 20px;
 }
