@@ -1,5 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<?php
+  if (!isset($_COOKIE['view'])) {
+    cookie::set('view', 'carousel');
+  }
+?> 
+<html lang="<?php echo $site->language()->code() ?>">
 <head>
 
   <meta charset="utf-8" />
@@ -72,5 +77,5 @@
 </head>
 <body>
 
-  <?php snippet('navbar'); ?>
+  <?php snippet('title-bar'); ?>
   <div class="container">   

@@ -22,7 +22,7 @@
 				"name": "bullhorn"
 			},
 			"setIdx": 0,
-			"iconIdx": 151
+			"iconIdx": 0
 		},
 		{
 			"icon": {
@@ -45,8 +45,8 @@
 				"code": 61485,
 				"name": "book"
 			},
-			"setIdx": 1,
-			"iconIdx": 4
+			"setIdx": 0,
+			"iconIdx": 1
 		},
 		{
 			"icon": {
@@ -68,8 +68,8 @@
 				"code": 61458,
 				"name": "chart"
 			},
-			"setIdx": 1,
-			"iconIdx": 5
+			"setIdx": 0,
+			"iconIdx": 2
 		},
 		{
 			"icon": {
@@ -92,8 +92,8 @@
 				"code": 61596,
 				"name": "unlock"
 			},
-			"setIdx": 1,
-			"iconIdx": 6
+			"setIdx": 0,
+			"iconIdx": 3
 		},
 		{
 			"icon": {
@@ -116,8 +116,8 @@
 				"code": 61736,
 				"name": "question"
 			},
-			"setIdx": 1,
-			"iconIdx": 7
+			"setIdx": 0,
+			"iconIdx": 4
 		},
 		{
 			"icon": {
@@ -140,8 +140,8 @@
 				"code": 61737,
 				"name": "info"
 			},
-			"setIdx": 1,
-			"iconIdx": 8
+			"setIdx": 0,
+			"iconIdx": 5
 		},
 		{
 			"icon": {
@@ -164,8 +164,8 @@
 				"code": 61738,
 				"name": "exclamation"
 			},
-			"setIdx": 1,
-			"iconIdx": 9
+			"setIdx": 0,
+			"iconIdx": 6
 		},
 		{
 			"icon": {
@@ -188,8 +188,8 @@
 				"name": "twitter",
 				"ligatures": ""
 			},
-			"setIdx": 1,
-			"iconIdx": 10
+			"setIdx": 0,
+			"iconIdx": 7
 		},
 		{
 			"icon": {
@@ -213,8 +213,8 @@
 				"name": "gear",
 				"ligatures": ""
 			},
-			"setIdx": 1,
-			"iconIdx": 11
+			"setIdx": 0,
+			"iconIdx": 8
 		},
 		{
 			"icon": {
@@ -238,8 +238,8 @@
 				"name": "home",
 				"ligatures": ""
 			},
-			"setIdx": 1,
-			"iconIdx": 12
+			"setIdx": 0,
+			"iconIdx": 9
 		},
 		{
 			"icon": {
@@ -263,8 +263,8 @@
 				"name": "renew",
 				"ligatures": ""
 			},
-			"setIdx": 1,
-			"iconIdx": 14
+			"setIdx": 0,
+			"iconIdx": 10
 		},
 		{
 			"icon": {
@@ -288,8 +288,8 @@
 				"name": "lock",
 				"ligatures": ""
 			},
-			"setIdx": 1,
-			"iconIdx": 15
+			"setIdx": 0,
+			"iconIdx": 11
 		},
 		{
 			"icon": {
@@ -313,8 +313,8 @@
 				"name": "play",
 				"ligatures": ""
 			},
-			"setIdx": 1,
-			"iconIdx": 16
+			"setIdx": 0,
+			"iconIdx": 12
 		},
 		{
 			"icon": {
@@ -337,8 +337,8 @@
 				"name": "pause",
 				"ligatures": ""
 			},
-			"setIdx": 1,
-			"iconIdx": 17
+			"setIdx": 0,
+			"iconIdx": 13
 		},
 		{
 			"icon": {
@@ -361,8 +361,8 @@
 				"name": "facebook",
 				"ligatures": ""
 			},
-			"setIdx": 1,
-			"iconIdx": 18
+			"setIdx": 0,
+			"iconIdx": 14
 		},
 		{
 			"icon": {
@@ -385,8 +385,8 @@
 				"name": "googleplus",
 				"ligatures": ""
 			},
-			"setIdx": 1,
-			"iconIdx": 19
+			"setIdx": 0,
+			"iconIdx": 15
 		},
 		{
 			"icon": {
@@ -410,8 +410,8 @@
 				"name": "unlock2",
 				"ligatures": ""
 			},
-			"setIdx": 1,
-			"iconIdx": 20
+			"setIdx": 0,
+			"iconIdx": 16
 		},
 		{
 			"icon": {
@@ -436,8 +436,8 @@
 				"name": "prof",
 				"ligatures": ""
 			},
-			"setIdx": 1,
-			"iconIdx": 21
+			"setIdx": 0,
+			"iconIdx": 17
 		},
 		{
 			"icon": {
@@ -460,8 +460,8 @@
 				"code": 61508,
 				"name": "newsession"
 			},
-			"setIdx": 1,
-			"iconIdx": 22
+			"setIdx": 0,
+			"iconIdx": 18
 		},
 		{
 			"icon": {
@@ -504,8 +504,8 @@
 				"code": 58882,
 				"name": "presenter"
 			},
-			"setIdx": 1,
-			"iconIdx": 0
+			"setIdx": 0,
+			"iconIdx": 19
 		},
 		{
 			"icon": {
@@ -530,8 +530,8 @@
 				"name": "ars",
 				"ligatures": ""
 			},
-			"setIdx": 1,
-			"iconIdx": 1
+			"setIdx": 0,
+			"iconIdx": 20
 		},
 		{
 			"icon": {
@@ -557,8 +557,8 @@
 				"name": "nova",
 				"ligatures": ""
 			},
-			"setIdx": 1,
-			"iconIdx": 2
+			"setIdx": 0,
+			"iconIdx": 21
 		},
 		{
 			"icon": {
@@ -596,8 +596,8 @@
 				"name": "thm-full",
 				"ligatures": ""
 			},
-			"setIdx": 1,
-			"iconIdx": 3
+			"setIdx": 0,
+			"iconIdx": 22
 		},
 		{
 			"icon": {
@@ -619,7 +619,7 @@
 				"name": "radar",
 				"ligatures": ""
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"iconIdx": 23
 		},
 		{
@@ -652,7 +652,7 @@
 				"name": "thm",
 				"ligatures": ""
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"iconIdx": 24
 		},
 		{
@@ -680,7 +680,7 @@
 				"name": "user",
 				"ligatures": ""
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"iconIdx": 25
 		},
 		{
@@ -711,7 +711,7 @@
 				"name": "speaker",
 				"ligatures": ""
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"iconIdx": 26
 		},
 		{
@@ -737,7 +737,7 @@
 				"name": "happy",
 				"ligatures": ""
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"iconIdx": 27
 		},
 		{
@@ -763,7 +763,7 @@
 				"name": "sad",
 				"ligatures": ""
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"iconIdx": 28
 		},
 		{
@@ -789,7 +789,7 @@
 				"name": "wink",
 				"ligatures": ""
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"iconIdx": 29
 		},
 		{
@@ -815,7 +815,7 @@
 				"name": "shocked",
 				"ligatures": ""
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"iconIdx": 30
 		},
 		{
@@ -842,7 +842,7 @@
 				"name": "close",
 				"ligatures": ""
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"iconIdx": 31
 		},
 		{
@@ -870,7 +870,7 @@
 				"name": "users",
 				"ligatures": ""
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"iconIdx": 32
 		},
 		{
@@ -893,8 +893,36 @@
 				"code": 58881,
 				"name": "book2"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"iconIdx": 33
+		},
+		{
+			"icon": {
+				"paths": [
+					"M0 128v768h1024v-768h-1024zM192 832h-128v-128h128v128zM192 576h-128v-128h128v128zM192 320h-128v-128h128v128zM768 832h-512v-640h512v640zM960 832h-128v-128h128v128zM960 576h-128v-128h128v128zM960 320h-128v-128h128v128zM384 320v384l256-192z"
+				],
+				"attrs": [],
+				"tags": [
+					"film",
+					"video",
+					"movie",
+					"tape",
+					"play"
+				],
+				"defaultCode": 57418,
+				"grid": 16
+			},
+			"attrs": [],
+			"properties": {
+				"id": 128,
+				"order": 1,
+				"prevSize": 32,
+				"code": 59667,
+				"ligatures": "film, video2",
+				"name": "video"
+			},
+			"setIdx": 1,
+			"iconIdx": 19
 		}
 	],
 	"height": 1024,
@@ -917,7 +945,8 @@
 				"emSize": 1024,
 				"baseline": 6.25,
 				"whitespace": 50
-			}
+			},
+			"showSelector": true
 		},
 		"imagePref": {
 			"prefix": "icon-",
