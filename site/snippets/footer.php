@@ -1,14 +1,10 @@
-  <footer class="footer cf" role="contentinfo">
-
-    <div class="copyright">
-      <?php echo $site->copyright()->kirbytext() ?>
-    </div>
-
-    <div class="colophon">
-      <a href="http://getkirby.com/made-with-kirby-and-love">Made with Kirby and <b>♥</b></a>
-    </div>
-
-  </footer>
-
-</body>
+		</div>
+		<footer class="footer" role="contentinfo">
+		    <div class="container">
+		        <?php echo kirbytext($site->copyright()) ?>
+		    </div>
+	  </footer>
+		<?php echo js('//code.jquery.com/jquery.js') ?>
+		<?php echo js('//netdna.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js') ?>
+	</body>
 </html>
