@@ -14,15 +14,15 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 60px;
+  margin-bottom: 54.71875px;;
   background-color: rgb(224,224,224);
 }
 .footer {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 60px;
+  height: 54.71875px;
   background-color: #4a5c66;
 
 }
@@ -57,8 +57,14 @@ code {
 }
 
 .header {
-  padding: 15px;
+  position:fixed;
+  top:0;
+  right:0;
+  left:0;
+  height:47px;
+  padding: 7px;
   background: #ffffff;
+  box-sizing: border-box;
 }
 a.brand {
   color: inherit;
