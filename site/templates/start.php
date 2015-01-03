@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 <?php snippet('title-bar'); ?>
 <?php $i = 0; ?>
-	<div class="container">
+	<div class="container main content">
 		<nav class="" role="navigation">
 			<?php foreach($page->siblings()->visible() as $page) :?>
 				<?php if($i % 2 == 0) { echo '<div class="btn-group">';} ?>
