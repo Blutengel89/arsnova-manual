@@ -71,6 +71,11 @@ code {
 a.brand {
   color: inherit;
   font-size: 25px;
+  position: absolute;
+  left:50%;
+  -webkit-transform:translate(-50%,0%);
+  display:inline-block;
+  margin: 0 auto;
 }
 a:hover {
   text-decoration: none;
