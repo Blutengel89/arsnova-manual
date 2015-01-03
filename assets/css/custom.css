@@ -5,8 +5,6 @@ html {
   font-size: 1.0em;
 }
 body {
-  /* Margin bottom by footer height */
-  margin-bottom: 54.71875px;
   background-color: rgb(224,224,224);
   font-size:1.0em;
   font-weight:200;
@@ -114,9 +112,8 @@ a:hover {
 .gravure {
   text-align: center;
 }
-.gravure a {
-  display: block;
-  margin: 10px auto;
+.gravure p {
+  margin: auto;
   font-size: 1.2em;
 }
 
