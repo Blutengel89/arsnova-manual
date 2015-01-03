@@ -6,7 +6,9 @@
 		<?php foreach($page->children()->visible() as $child) :?>
 			<a href="<?php echo $child->url() ?>">
 				<li class="list-group-item">
-						<span><?php echo $child->title() ?></span><span class="pull-right glyphicon glyphicon-chevron-right"></span>
+						<div class="container-text noOverflow">
+							<span class=""><?php echo $child->title() ?></span>
+						</div>
 				</li>    
 			</a>
 		<?php endforeach ?>  
