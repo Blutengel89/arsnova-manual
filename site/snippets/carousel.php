@@ -7,6 +7,7 @@
 			foreach($instructions as $instruction) :?>
 				<div class="item <?php if ($count == 1): echo 'active'; endif;?>">
 					<img class="screenshot" src="<?php echo $image->url() ?>" alt="<?php echo $page->title() . "-" . $count ?>" /> 
+						<hr />
 						<div class="carousel-caption">
 							<?php if($instruction['instruction'] != ""): ?>
 								<div class="instruction-item clearfix">	

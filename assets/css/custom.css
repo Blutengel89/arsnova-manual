@@ -19,7 +19,7 @@ body {
   white-space: nowrap;
   padding-right: 40px;
 }
-.main-content>h2 {
+.main-content>h2, .content>h2 {
   margin-top:0;
   font-size: 1.3em;
   font-weight: 200;
@@ -218,6 +218,9 @@ item img{max-width:100%}
 div.container .toggle-carousel,
 div.toggle-carousel .container {
   width: auto;
+}
+div.container.content {
+  padding-bottom:25px;
 }
 div.instruction-item {
     margin-left: 20px;
