@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 <?php snippet('title-bar'); ?>
-<div class="container">
+<div class="container main-content">
 	<h2><?php echo $page->title()->html() ?></h2>
 	<div class="icon-button"><span class="icon-<?php echo $page->icon() ?>"></span></div>
 	<ul class="list-group" role="navigation">
