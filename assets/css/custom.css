@@ -114,6 +114,7 @@ a:hover {
 }
 .btn-label h2 {
   font-size: 1.2em;
+  font-weight: 200;
 }
 .btn-label:hover {
   color: #4a5c66;
