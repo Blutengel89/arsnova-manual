@@ -2,7 +2,6 @@
 <!-- Wrapper for slides -->
 	<div class="toggle-temp">
 		<?php
-			a::show($instructions);
 			$image=$images->first();
 			//Loop through images and add instructions from yaml-fields for each image
 				foreach($instructions as $instruction) : ?>

@@ -6,8 +6,6 @@ return function($site, $pages, $page) {
   $images = $page->images()->filterBy('filename', '*=', $code . '_');
   $count = 1; //helper variable
   $instructions = yaml($page->instructions());
-  
-
  
   return compact('code', 'images', 'count', 'instructions');
 

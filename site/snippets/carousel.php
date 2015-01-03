@@ -1,4 +1,3 @@
-<?php //a::show($instructions); ?>
 <div id="carousel-example-<?php echo $page->uid();?>" class="carousel slide" data-interval="false" data-wrap="true">
 	<!-- Wrapper for slides -->
 	<div class="toggle-temp carousel-inner">
