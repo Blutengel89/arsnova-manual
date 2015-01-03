@@ -1,22 +1,4 @@
-/* Sticky footer styles
--------------------------------------------------- */
-* {
-  box-shadow:none !important;
-  text-shadow: none !important;
-}
-.noOverflow {
-overflow: hidden;
-text-overflow: ellipsis;
-white-space: nowrap;
-padding-right: 40px;
-}
-h2 {
-  font-size: 20px;
-  text-align: center;
-}
-h4 {
-  font-weight: 200;
-}
+
 html {
   position: relative;
   min-height: 100%;
@@ -26,61 +8,37 @@ body {
   margin-bottom: 54.71875px;
   background-color: rgb(224,224,224);
 }
-.footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  /* Set the fixed height of the footer here */
-  height: 54.71875px;
-  background-color: #4a5c66;
-
+* {
+  box-shadow:none !important;
+  text-shadow: none !important;
 }
-.footer p {
-  color: #fff;
-  margin: 20px 0;
+.noOverflow {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding-right: 40px;
+}
+h2 {
+  font-size: 20px;
   text-align: center;
 }
-.footer p a {
-  color: #80ba24;
-}
-
-
-/* Custom page CSS
--------------------------------------------------- */
-/* Not required for template or sticky footer method. */
-
-body > .container {
-  padding: 0 15px 0;
-}
-.container .text-muted {
-  margin: 20px 0;
-}
-
-.footer > .container {
-  padding-right: 15px;
-  padding-left: 15px;
-}
-
-code {
-  font-size: 80%;
+h4 {
+  font-weight: 200;
 }
 
 .header {
-  height: 150px;
-  padding: 7px;
+  height: 170px;
   box-sizing: border-box;
-}
-.header .container {
   text-align: center;
 }
 h1.brand {
   color: inherit;
-  font-size: 25px;
   position: absolute;
   left:50%;
+  font-size: 2.2em;
   -webkit-transform:translate(-50%,0%);
   display:inline-block;
-  margin: 30px auto;
+  margin: 30px auto 20px auto;
 }
 h1.brand span[class^="icon-"] {
   font-size: 2.2em;
@@ -90,7 +48,7 @@ h1.brand span.icon-radar {
 }
 h1.brand span:nth-child(4) {
   display: block;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 a {
   color: #4a5c66;
@@ -99,6 +57,9 @@ a:hover {
   text-decoration: none;
 }
 
+/* 
+:::: Navigation buttons on start page ::::
+----------------------------------------*/
 .btn-group {
   display: block;
   margin: 20px auto;
@@ -124,7 +85,6 @@ a:hover {
 .btn-icon:hover {
   background-color: #ffffff;
 }
-
 .icon {
   width: 60px;
   height: 60px;
@@ -142,7 +102,6 @@ a:hover {
 }
 .btn-label:hover {
   color: #4a5c66;
-
 }
 .gravure {
   text-align: center;
@@ -157,6 +116,9 @@ a.thmlink {
   font-size: 1.4em;
 }
 
+/* 
+:::: Navigation list on main.php ::::
+----------------------------------------*/
 .list-group-item {
   height: 45px;
   border-width: thin;
@@ -167,7 +129,6 @@ a.thmlink {
   background-position: 100%;
   background-repeat: no-repeat;
 }
-
 .list-group-item span:first-child {
    padding-right: 30px;
 }
@@ -195,16 +156,23 @@ a.thmlink {
   font-size: 30px;
   color: #80ba24;
 }
-
+/* 
+:::: Instruction pages (carousel + list) ::::
+-------------------------------------------*/
 .instructions {
   background-color: #ffffff;
   border-radius: 15px;
 }
-.carousel{margin-top: 40px; padding:0}
-.item{padding:0 24px;}
+.carousel{
+  margin-top: 40px; 
+  padding:0
+}
+.item {
+  padding:0 24px;
+}
 item img{max-width:100%}
 .carousel-caption{position:relative;left:0;right:0;text-shadow:none;bottom:0;color:#000;text-align:left;}
-.carousel-caption span{display:inline-block;float:left;color:#80ba24}.carousel-caption h3{padding:.5em 0;color:#80ba24}
+.carousel-caption span{display:inline-block;float:left;color:#80ba24}
 .screenshot + .carousel-caption{padding:20px}
 .carousel-caption>span>p{display:inline-block}
 .carousel-inner>.item>img{display:block;margin:0 auto}
@@ -220,17 +188,24 @@ div.container .toggle-carousel,
 div.toggle-carousel .container {
   width: auto;
 }
-h4.list {
+div.instruction-item {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+div.result-text {
   margin-left: 20px;
 }
-h4.list:before {
-    color: #80ba24;
-    font-weight:500;
-    content: counter(ebene1) ". ";
-    counter-increment: ebene1;
-    width: 20px;
-    margin-left: -20px;
+span.list-counter {
+  margin-left: -20px;
+  font-size: 1.3em;
+  color: #80ba24;
 }
-.carousel-caption div {
-  margin-left: 20px;
+span.instruction-text {
+  font-size: 1.3em;
+  color: inherit;
+}
+
+
+div.result-text {
+  font-size: 1.3em;
 }

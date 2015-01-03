@@ -76,4 +76,3 @@
 
 </head>
 <body>
-  <?php snippet('title-bar'); ?>

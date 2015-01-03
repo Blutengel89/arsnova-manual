@@ -1,4 +1,5 @@
 <?php snippet('header') ?>
+<?php snippet('title-bar'); ?>
 <?php $i = 0; ?>
 	<div class="container">
 		<nav class="" role="navigation">

@@ -7,13 +7,15 @@
 				foreach($instructions as $instruction) : ?>
 					<div class="item <?php if ($count==1): echo 'active'; endif;?>">
 							<div class="carousel-caption">
-								<?php if($instruction['instruction'] != ""): ?>
-									<span class="number"><?php echo $count ?>.&nbsp;</span><?php $action = markdown($instruction['Action']); echo $action ?>
-								<?php endif ?>
-								<?php if($instruction['result'] != ""): ?>
-									<div><?php echo markdown($instruction['Details']) ?></div>
-								<?php endif; ?>
-							</div>
+							<?php if($instruction['instruction'] != ""): ?>
+								<div class="instruction-item clearfix">	
+									<span class="list-counter"><?php echo $count . ". "?></span><span class="instruction-text"><?php echo $instruction['instruction']; ?></span>
+								</div>
+							<?php endif ?>
+							<?php if($instruction['result'] != ""): ?>
+								<div class="result-text"><?php echo markdown($instruction['result']) ?></div>
+							<?php endif; ?>
+						</div>
 						<img class="screenshot" src="<?php echo $image->url() ?>" alt="<?php echo $page->url_key() . "-" . $count ?>" /> 
 					</div>
 					<?php 
@@ -29,3 +31,4 @@
 	<span class="glyphicon glyphicon-chevron-right"></span>
 	</a>
 </div>
+<!--a class="to-top" href="#maincontent"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span><span class="sr-only"><?php echo l::get('totop'); ?></span></a-->
