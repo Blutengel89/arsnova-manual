@@ -28,7 +28,7 @@
         <meta property="og:locale:alternate" content="<?php echo $language->locale() ?>" />
       <?php endif; 
     endforeach ?>
-<meta property="og:description" content="<?php echo $page->description() ?>" />
+  <meta property="og:description" content="<?php echo $page->description() ?>" />
 
 
 
@@ -76,6 +76,4 @@
 
 </head>
 <body>
-
   <?php snippet('title-bar'); ?>
-  <div class="container">   
