@@ -127,7 +127,7 @@ a:hover {
   margin: auto;
   background: #ffffff;
 }
-.icon span, span.icon-radar:before {
+.icon span, .icon span.icon-radar:before {
   color: #4a5c66;
 }
 .btn-label {
