@@ -2,6 +2,7 @@
 -------------------------------------------------- */
 * {
   box-shadow:none !important;
+  text-shadow: none !important;
 }
 h2 {
   font-size: 20px;
@@ -149,23 +150,23 @@ a:hover {
 a.thmlink {
   font-size: 1.4em;
 }
-.panel-default>.panel-heading {
-  background: #ffffff;
 
-}
-h4.panel-title span[class^="icon-"]{
-  display: inline-block;
-  width: 15px;
-  box-sizing: border-box;
-
-  text-align: center;
-}
-h4.panel-title span[class^="icon-"]:before {
-    color: rgb(51,51,51);
+.list-group-item {
+  height: 45px;
+  border-width: thin;
+  border-radius: 0;
+  font-size: 1.3em;
+  overflow:hidden;
 }
 
-h4.panel-title span:nth-child(2) {
-  padding-left:15px;
+.list-group-item span:first-child {
+   padding-right: 30px;
+}
+.list-group a:first-child .list-group-item {
+  border-radius: 15px 15px 0 0;
+}
+.list-group a:last-child .list-group-item {
+  border-radius: 0 0 15px 15px;
 }
 .icon-button {
   width: 60px;
@@ -186,7 +187,10 @@ h4.panel-title span:nth-child(2) {
   color: #80ba24;
 }
 
-
+.instructions {
+  background-color: #ffffff;
+  border-radius: 15px;
+}
 .carousel{margin-top: 40px; padding:0}
 .item{padding:0 24px;}
 item img{max-width:100%}

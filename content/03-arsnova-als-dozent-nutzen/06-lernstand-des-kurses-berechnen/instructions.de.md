@@ -1,4 +1,4 @@
-Title: Lernstand des Kurses berechnen (nach Antwortpunkten oder richtig beantworteten Fragen)
+Title: Lernstand des Kurses berechnen
 ----
 Instructions:
 -
