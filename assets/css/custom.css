@@ -79,6 +79,11 @@ a:hover {
   vertical-align: top;
   text-align: center
 }
+.main-content>.btn-container {
+  width:auto;
+  display:block;
+  margin: 0 auto 20px auto;
+}
 
 .btn-default.btn-icon {
   width: 80px;
