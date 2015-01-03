@@ -24,4 +24,8 @@
 			<?php $i++; endforeach ?>  
 		</nav>
 	</div>
+	<div class="gravure">
+	<a href="http://www.thm.de/" class="thmlink" target="_blank">A <span style="color:#699824;">THM</span> Product</a>
+	<a href="https://www.texniq.de/" class="texniqling" target="_blank">Manual Design: TEXNIQ</a>
+	</div>
 <?php //snippet('footer') ?>
