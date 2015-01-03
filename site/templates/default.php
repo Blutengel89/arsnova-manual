@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 <?php snippet('title-bar'); ?>
-  <div class="container" role="main">
+  <div class="container main-content" role="main">
     <div>
 	    <h2><?php echo $page->title()->html() ?></h1>
 	    <div class="icon-button"><span class="icon-<?php echo $page->icon() ?>"></span></div>
