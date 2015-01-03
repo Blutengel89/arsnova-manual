@@ -1,4 +1,4 @@
-Title: ARSnova als Dozent nutzen
+Title: Als Dozent nutzen
 
 ----
 Icon: presenter

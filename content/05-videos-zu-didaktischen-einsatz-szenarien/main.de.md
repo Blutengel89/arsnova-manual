@@ -1,4 +1,4 @@
-Title: Videos zu didaktischen Einsatz-Szenarien von ARSnova
+Title: Einsatz-Szenarien
 ----
 Icon: video
 ----

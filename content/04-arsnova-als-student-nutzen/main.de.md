@@ -1,4 +1,4 @@
-Title: ARSnova als Student nutzen
+Title: Als Student nutzen
 
 ----
 Icon: users

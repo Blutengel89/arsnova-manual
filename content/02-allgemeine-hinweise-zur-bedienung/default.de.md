@@ -1,4 +1,4 @@
-Title: Allgemeine Hinweise zur Bedienung
+Title: Bedienung
 
 ----
 Icon: info

@@ -43,7 +43,7 @@ body {
 /* Not required for template or sticky footer method. */
 
 body > .container {
-  padding: 60px 15px 0;
+  padding: 0 15px 0;
 }
 .container .text-muted {
   margin: 20px 0;
@@ -59,29 +59,89 @@ code {
 }
 
 .header {
-  position:fixed;
-  top:0;
-  right:0;
-  left:0;
-  height:47px;
+  height: 150px;
   padding: 7px;
-  background: #ffffff;
   box-sizing: border-box;
 }
-a.brand {
+.header .container {
+  text-align: center;
+}
+h1.brand {
   color: inherit;
   font-size: 25px;
   position: absolute;
   left:50%;
   -webkit-transform:translate(-50%,0%);
   display:inline-block;
-  margin: 0 auto;
+  margin: 30px auto;
+}
+h1.brand span[class^="icon-"] {
+  font-size: 2.2em;
+}
+h1.brand span.icon-radar {
+  margin-right: -11px;
+}
+h1.brand span:nth-child(4) {
+  display: block;
+  margin-top: 20px;
+}
+a {
+  color: #4a5c66;
 }
 a:hover {
   text-decoration: none;
 }
+
+.btn-group {
+  display: block;
+  margin: 30px auto;
+  text-align: center;
+}
+.btn-container {
+  width: 120px;
+  margin: 0 30px 0 0;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center
+}
+.btn-group>.btn-container:first-child {
+  margin-right:30px;
+}
+.btn-default.btn-icon {
+  width: 80px;
+  height: 80px;
+  border: none;
+  padding:10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+.btn-icon:hover {
+  background-color: #ffffff;
+}
+.icon {
+  width: 60px;
+  height: 60px;
+  font-size: 48px;
+  line-height: 60px;
+  margin: auto;
+  background: #ffffff;
+}
+.icon span, span.icon-radar:before {
+  color: #4a5c66;
+}
+.btn-label {
+  margin-top: 10px;
+  font-size: 14px;
+}
+.btn-label:hover {
+  color: #4a5c66;
+
+}
+
 .panel-default>.panel-heading {
   background: #ffffff;
+
 }
 h4.panel-title span[class^="icon-"]{
   display: inline-block;
@@ -115,9 +175,7 @@ h4.panel-title span:nth-child(2) {
   font-size: 30px;
   color: #80ba24;
 }
-.header .container {
-  text-align: center;
-}
+
 
 .carousel{margin-top: 40px; padding:0}
 .item{padding:0 24px;}
