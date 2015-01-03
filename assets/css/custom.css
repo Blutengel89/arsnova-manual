@@ -1,6 +1,8 @@
 /* Sticky footer styles
 -------------------------------------------------- */
-
+* {
+  box-shadow:none !important;
+}
 h2 {
   font-size: 20px;
   text-align: center;
