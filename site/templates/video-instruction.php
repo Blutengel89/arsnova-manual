@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-  <div class="container main-content" role="main">
+  <div id="main-content" class="container main-content" role="main">
 		<h2>
 			<a href="<?php echo $page->parent()->url()?>">
 				<span class="overview icon-menu pull-left"><span class="sr-only"><?php echo l('uebersicht') ?></span>

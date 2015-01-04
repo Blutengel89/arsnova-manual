@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-	<div class="container main-content" role="main">
+	<div id="main-content" class="container main-content" role="main">
 		<div class="btn-container">
 			<div class="btn btn-default btn-icon noHover">
 				<div class="icon">

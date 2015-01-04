@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 <?php $i = 0; ?>
-	<div class="container main-content">
+	<div id="main-content" class="container main-content">
 		<nav class="" role="navigation">
 			<?php foreach($page->siblings()->visible() as $page) :?>
 				<?php if($i % 2 == 0) { echo '<div class="btn-group">';} ?>
@@ -23,8 +23,9 @@
 			    <?php if($i % 2 != 0) {echo '</div>';} ?>
 			<?php $i++; endforeach ?>  
 		</nav>
-	</div>
-	<div class="gravure">
+		<div class="gravure">
 		<?php echo $site->design()->kirbytext() ?></a>
+		</div>
 	</div>
+	
 <?php snippet('footer') ?>	
