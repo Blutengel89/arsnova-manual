@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 <div class="container main-content">
 	<div class="btn-container">
-		<div class="btn btn-default btn-icon">
+		<div class="btn btn-default btn-icon noHover">
 			<div class="icon">
 				<span class="icon-<?php echo $page->icon() ?>"></span>
 			</div>					    

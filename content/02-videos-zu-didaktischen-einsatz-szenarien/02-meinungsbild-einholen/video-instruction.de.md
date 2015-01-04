@@ -1,7 +1,11 @@
 Title: Meinungsbild einholen
 ----
 Text:
-Hier könnte jeweils etwas einleitender Text zu jedem Video stehen.
+Hier kann entweder nur Text stehen oder auch Videos und Bilder eingebunden werden. Zum Einbinden von Bildern und Videos werden Kirbytags verwendet, z.B. youtube-tag oder image-tag. Beispiele sehen Sie hier in dieser Datei.
+
+(image: example.png width: 100% height: auto class: alt: Dies ist ein Beispiel-Bild)
+
+Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte.
+
+Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.
 (youtube:  https://www.youtube.com/watch?v=T3FTTVFPglw)
-Hier könnte jeweils etwas einleitender Text zu jedem Video stehen.
-(youtube:  https://www.youtube.com/watch?v=D5ADk2gi6JM)

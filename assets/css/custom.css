@@ -19,11 +19,21 @@ body {
   white-space: nowrap;
   padding-right: 40px;
 }
+
+figure {
+
+}
+figcaption {
+  font-size: 0.8em;
+  font-style: italic;
+  margin: 10px 0 20px 0;
+  color: inherit;
+}
 .container:first-child {
   padding-top:30px;
 }
-.main-content>h2, .content>h2 {
-  margin-top:0;
+.main-content>h2 {
+  margin:0 0 20px 0;
   font-size: 1.3em;
   font-weight: 200;
   line-height:1.6em;
@@ -65,8 +75,15 @@ a {
 }
 a:hover {
   text-decoration: none;
-}
 
+}
+.btn-icon:hover, .list-group-item:hover {
+  background-color: rgba(0,0,0,0.1);
+}
+.btn-icon.noHover {
+  background-color: #ffffff;
+  cursor: default;
+}
 /* 
 :::: Navigation buttons on start page ::::
 ----------------------------------------*/
@@ -98,7 +115,7 @@ a:hover {
   border-radius: 10px;
 }
 .btn-icon:hover {
-  background-color: #ffffff;
+
 }
 .icon {
   width: 60px;
@@ -106,7 +123,7 @@ a:hover {
   font-size: 48px;
   line-height: 60px;
   margin: auto;
-  background: #ffffff;
+  background-color: transparent;
 }
 .icon span, .icon span.icon-radar:before {
   color: #4a5c66;
@@ -266,4 +283,7 @@ figure.video {
   left: 0;
   width: 100%;
   height: 100%;
+}
+span[class^="icon-"].overview, span[class*=" icon-"].overview {
+  line-height:1.6em;
 }
