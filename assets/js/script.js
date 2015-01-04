@@ -1,14 +1,8 @@
-var newHash     = '',
-   $mainContent = $('.main-content');
 
-$('body').delegate('a', 'click', function() {
-	window.location = $(this).attr('href');
-	return false;
-});
-
-// Not all browsers support hashchange
-// For older browser support: http://benalman.com/projects/jquery-hashchange-plugin/
-$(window).bind('hashchange', function() {
-	newHash = window.location.hash.substr(1);
-	$mainContent.load(newHash + " #content > *");
+$(document).ready(function() {
+	$("a:not(.carousel-control)").click(function() {
+		var page = $(this).attr('href');
+		$('.main-content').load(page);
+		return false;
+	});
 });
