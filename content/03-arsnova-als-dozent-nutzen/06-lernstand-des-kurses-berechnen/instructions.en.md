@@ -1,5 +1,5 @@
-Title: Calculate learning status
+Title: Calculate class progress
 ----
-URL-Key: calculate-learning-status
+URL-Key: calculate-class-progress
 ----
 Instructions:

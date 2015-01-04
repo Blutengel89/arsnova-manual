@@ -1,4 +1,6 @@
-Title: Add a title
+Title: Teaching evaluation
+----
+URL-Key: teaching-evaluation
 ----
 Text:
 Hier könnte jeweils etwas einleitender Text zu jedem Video stehen.

@@ -1,4 +1,4 @@
-Title: Als Student nutzen
+Title: Als Student/in nutzen
 
 ----
 Icon: users

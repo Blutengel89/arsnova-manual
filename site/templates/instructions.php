@@ -1,5 +1,4 @@
 <?php snippet('header') ?>
-<?php snippet('title-bar'); ?>
 <div class="container content toggle-carousel">
 		<!--button type="button" class="btn template"><?php echo l::get('ansicht'); ?></button-->
 			<h2><?php echo $page->title()->html(); ?></h2>

@@ -1,4 +1,4 @@
-Title: Als Dozent nutzen
+Title: Als Dozent/in nutzen
 
 ----
 Icon: presenter

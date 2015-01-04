@@ -1,4 +1,4 @@
-Title: ARSnova als Dozent nutzen
+Title: Use as techer
 
 ----
 

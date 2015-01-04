@@ -1,4 +1,6 @@
-Title: Add a title
+Title: Check class progress
+----
+URL-Key: 
 ----
 Text:
 Hier könnte jeweils etwas einleitender Text zu jedem Video stehen.

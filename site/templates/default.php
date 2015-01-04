@@ -1,5 +1,4 @@
 <?php snippet('header') ?>
-<?php snippet('title-bar'); ?>
 	<div class="container main-content" role="main">
 		<div class="btn-container">
 			<div class="btn btn-default btn-icon">

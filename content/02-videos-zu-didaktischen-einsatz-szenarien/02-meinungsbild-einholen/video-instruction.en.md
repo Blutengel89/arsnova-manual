@@ -1,4 +1,6 @@
-Title: Add a title
+Title: Seek opinions
+----
+URL-Key: seek-opinions
 ----
 Text:
 Hier könnte jeweils etwas einleitender Text zu jedem Video stehen.
