@@ -190,6 +190,9 @@ border-top-left-radius: 0;
 /* 
 :::: Instruction pages (carousel + list) ::::
 -------------------------------------------*/
+.toggle-carousel {
+  width: 100%;
+}
 .instructions {
   background-color: #ffffff;
   border-radius: 15px;
