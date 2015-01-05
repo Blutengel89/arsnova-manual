@@ -203,7 +203,8 @@ border-top-left-radius: 0;
   padding:0 24px 0;
   text-align: center;
 }
-item img{max-width:100%}
+item img{max-width:100%;}
+.toggle-list img {padding-bottom:20px;}
 .carousel-caption{position:relative;left:0;right:0;text-shadow:none;bottom:0;color:#000;text-align:left;padding-top:0;}
 .carousel-caption span{display:inline-block;float:left;color:#80ba24}
 .screenshot + .carousel-caption{padding:20px}
@@ -292,4 +293,21 @@ figure.video {
 span[class^="icon-"].overview, span[class*=" icon-"].overview {
   line-height:1.6em;
   padding-right: 10px;
+}
+
+
+.toggle-carousel .to-top {
+  display:none;
+  position: fixed;
+  bottom: 20px;
+  right:5%;
+}
+
+@media screen and (min-width:48em) {
+  .toggle-list .to-top {
+      position: fixed;
+      bottom: 40px;
+      right:3%;
+      display:block;
+  }
 }

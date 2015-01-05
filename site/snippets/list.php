@@ -1,9 +1,8 @@
-<div id="carousel-example-<?php echo $page->uid();?>" class="carousel slide" data-interval="false" data-wrap="true">
+<div id="carousel-<?php echo $page->uid();?>" class="carousel slide" data-interval="false" data-wrap="true">
 <!-- Wrapper for slides -->
 	<div class="toggle-temp">
 		<?php
 			$image=$images->first();
-			//Loop through images and add instructions from yaml-fields for each image
 				foreach($instructions as $instruction) : ?>
 					<div class="item <?php if ($count==1): echo 'active'; endif;?>">
 							<div class="carousel-caption">
@@ -24,11 +23,10 @@
 				endforeach; ?>
 	</div>
 	<!-- Controls -->
-	<a class="left carousel-control hidden" href="#carousel-example-<?php echo $page->uid();?>" data-slide="prev">
+	<a class="left carousel-control hidden" href="#carousel-<?php echo $page->uid();?>" data-slide="prev">
 	<span class="glyphicon glyphicon-chevron-left"></span>
 	</a>
-	<a class="right carousel-control hidden" href="#carousel-example-<?php echo $page->uid();?>" data-slide="next">
+	<a class="right carousel-control hidden" href="#carousel-<?php echo $page->uid();?>" data-slide="next">
 	<span class="glyphicon glyphicon-chevron-right"></span>
 	</a>
 </div>
-<!--a class="to-top" href="#maincontent"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span><span class="sr-only"><?php echo l::get('totop'); ?></span></a-->

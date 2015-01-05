@@ -32,5 +32,4 @@
 	<a class="right carousel-control" href="#carousel-<?php echo $page->uid();?>" data-slide="next">
 		<span class="glyphicon glyphicon-chevron-right"></span>
 	</a>		
-</div>
-	
+</div>	
