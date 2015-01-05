@@ -197,6 +197,7 @@ border-top-left-radius: 0;
 }
 .item {
   padding:0 24px;
+  text-align: center;
 }
 item img{max-width:100%}
 .carousel-caption{position:relative;left:0;right:0;text-shadow:none;bottom:0;color:#000;text-align:left;}
@@ -216,7 +217,7 @@ div.container .toggle-carousel,
 div.toggle-carousel .container {
   width: auto;
 }
-div.container.content {
+div.container.instructions {
   padding-bottom:1.3em;
 }
 div.instruction-item {
@@ -228,16 +229,17 @@ div.result-text {
 }
 span.list-counter {
   margin-left: -20px;
-  font-size: 1.1em;
+  font-size: 0.9em;
+  font-weight:500;
   color: #80ba24;
 }
 span.instruction-text {
-  font-size: 1.1em;
+  font-size: 0.9em;
   color: inherit;
 }
 
 div.result-text {
-  font-size: 1.1em;
+  font-size: 0.9em;
 }
 
 .btn.btn-default.template {
