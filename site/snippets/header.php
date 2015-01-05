@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php
-  if (!isset($_COOKIE['view'])) {
-    cookie::set('view', 'carousel');
+  if(cookie::exists('view') == false){
+     $cookie = cookie::set('view', 'carousel');
   }
 ?> 
 <html lang="<?php echo $site->language()->code() ?>">
@@ -29,8 +29,6 @@
       <?php endif; 
     endforeach ?>
   <meta property="og:description" content="<?php echo $page->description() ?>" />
-
-
 
   <meta name="DC.Title" content="<?php echo $page->title()->html() ?> | <?php echo $site->title()->html()  ?>" />
   <meta name="DC.Creator" content="<?php echo $site->author()->html() ?>" />
