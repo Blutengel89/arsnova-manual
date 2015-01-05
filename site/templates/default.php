@@ -9,7 +9,9 @@
 			<div class="btn-label">
 				<h2><?php echo $page->title() ?></h2>
 			</div>
-		</div>  
+		</div> 
+		<div class="text">	 
 		<?php echo $page->text()->kirbytext() ?>
+		</div>
 	</div>
 <?php snippet('footer') ?>
