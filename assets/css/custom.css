@@ -74,9 +74,11 @@ a:hover {
   text-decoration: none;
 
 }
-.btn-icon:hover, .list-group-item:hover {
+.btn-default:hover,
+.list-group-item:hover {
   background-color: rgba(0,0,0,0.1);
 }
+
 .btn-icon.noHover {
   background-color: #ffffff;
   cursor: default;
@@ -262,6 +264,16 @@ div.result-text {
   font-size: 1.1em;
 }
 
+.btn.btn-default.template {
+  display:none;
+  padding-left: 10px;
+  border: none;
+}
+@media screen and (min-width:48em) {
+  .btn.btn-default.template {
+      display:inline-block;
+  }
+}
 
 figure.video {
   position: relative;
