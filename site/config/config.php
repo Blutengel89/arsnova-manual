@@ -30,7 +30,7 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 */
 c::set('content.file.extension', 'md');
 c::set('debug', true);
-c::set('markdown.extra', true);
+c::set('markdown.extra', false);
 c::set('markdown.breaks', true);
 c::set('timezone', 'UTC');
 c::set('home', 'start');
