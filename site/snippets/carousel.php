@@ -1,13 +1,12 @@
 <div id="carousel-<?php echo $page->uid();?>" class="carousel slide" data-interval="false" data-wrap="true">
 	<ol class="carousel-indicators">
-		<?php for ($i = 1; $i <= $count; $i++):?>
-          <li data-target="#carousel-<?php echo $page->uid();?>" data-slide-to="<?php echo $i?>" class="<?php if ($i == 1): echo 'active'; endif;?>"></li>
+		<?php for($i = 0; $i < $noImg; $i++):?>
+          <li data-target="#carousel-<?php echo $page->uid();?>" data-slide-to="<?php echo $i?>" class="<?php if ($i == 0): echo 'active'; endif;?>"></li>
   		<?php endfor ?>
   	</ol>
 	<!-- Wrapper for slides -->
 	<div class="toggle-temp carousel-inner">
 		<?php 
-		//Loop through images and add instructions from yaml-fields for each image
 			$image = $images->first();
 			foreach($instructions as $instruction) :?>
 				<div class="item <?php if($count == 1): echo 'active'; endif;?>">

@@ -26,6 +26,10 @@ figcaption {
   margin: 10px 0 20px 0;
   color: inherit;
 }
+h2 span {
+  display: inline;
+  vertical-align: middle;
+}
 .main-content>h2 {
   margin:0 0 20px 0;
   font-size: 1.3em;
@@ -196,11 +200,11 @@ border-top-left-radius: 0;
   padding:0
 }
 .item {
-  padding:0 24px;
+  padding:0 24px 15px 0;
   text-align: center;
 }
 item img{max-width:100%}
-.carousel-caption{position:relative;left:0;right:0;text-shadow:none;bottom:0;color:#000;text-align:left;}
+.carousel-caption{position:relative;left:0;right:0;text-shadow:none;bottom:0;color:#000;text-align:left;padding-top:0;}
 .carousel-caption span{display:inline-block;float:left;color:#80ba24}
 .screenshot + .carousel-caption{padding:20px}
 .carousel-caption>span>p{display:inline-block}
@@ -212,7 +216,22 @@ item img{max-width:100%}
 .glyphicon-chevron-left:before {
   color: #4a5c66;
 }
-
+.carousel-indicators {
+  position: relative;
+  width: 100%;
+  margin:0 auto;
+  left:0;
+  text-align: center;
+}
+.carousel-indicators li {
+  border: 1px solid #80ba24;
+}
+.carousel-indicators .active {
+  width: 10px;
+  height:10px;
+  margin: 1px;
+  background-color: #80ba24;
+}
 div.container .toggle-carousel,
 div.toggle-carousel .container {
   width: auto;
@@ -272,4 +291,5 @@ figure.video {
 }
 span[class^="icon-"].overview, span[class*=" icon-"].overview {
   line-height:1.6em;
+  padding-right: 10px;
 }
