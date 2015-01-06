@@ -10,6 +10,7 @@ body {
   font-size:16px;
   font-size:1.6rem;
   font-weight:200;
+  color:#4a5c66;
 }
 * {
   box-shadow:none !important;
@@ -62,11 +63,11 @@ figcaption {
   margin: 10px 0 20px 0;
   color: inherit;
 }
-h2 span {
+h2 span{
   display: inline;
   vertical-align: middle;
 }
-.main-content>h2, {
+h2.instruction-header {
   margin:0 0 20px 0;
   font-weight: 200;
   line-height:1.6em;
@@ -186,6 +187,7 @@ a:hover {
   border-radius: 0;
   font-size: 18px;
   font-size: 1.8rem;
+  color: #4a5c66;
   overflow:hidden;
   background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAAXNSR0IArs4c6QAAAAZiS0dEALgAuAC41wNsvAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sGEQk7MbF1V5sAAAENSURBVCjPY2CgNigtLS0pKyubSEgdMxqfsbS0tJuRkbGBgYHB3NLS8s+xY8cO49LMhC7AyMgoA5dkYmopLS1NIVbz//v378f///9/D5LYjLKysgCibF69evWvr1+/Bv7///8M1CXMDAwMy0tLS20xXInLSbm5uaIcHBxHGRkZVaFCH//9+2fX09NzCafNMDB58uTXjIyM6UhC/ExMTPPwOhvZ5v///89EEvr479+/JIKas7KyeDg4OLYhOfnH////fZGdjFVzaGgoGw8PzzpGRkYTBgYGhv////9lYGCI7O7uPkwotBkVFRUXMjAwuCKJZXR1dW0gKqr+////BMb+9+9fTXd39xyapG2KAAAvqFz8khrpYwAAAABJRU5ErkJggg==");
   background-position: 100%;
@@ -300,6 +302,7 @@ div.result-text {
 @media screen and (min-width:48em) {
   .btn.btn-default.template {
       display:inline-block;
+      margin-top:5px;
   }
 }
 
