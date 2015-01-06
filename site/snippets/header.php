@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<?php
-  if(cookie::exists('view') == false){
-     $cookie = cookie::set('view', 'carousel');
-  }
-?> 
+
 <html lang="<?php echo $site->language()->code() ?>">
+<?php
+  $value = "carousel";
+  if (!isset($_COOKIE['view'])) {
+    setcookie("view", $value);
+  }
+?>
 <head>
 
   <meta charset="utf-8" />
