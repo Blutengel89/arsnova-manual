@@ -1,5 +1,4 @@
 Title: Über ARSnova
-
 ----
 Icon: radar
 ----
