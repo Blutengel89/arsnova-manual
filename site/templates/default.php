@@ -1,4 +1,4 @@
-<?php snippet('header') ?>
+<?php if(!r::ajax()) {snippet('header');} ?>
 	<div id="main-content" class="container main-content" role="main">
 		<div class="btn-container">
 			<div class="btn btn-default btn-icon noHover">
@@ -14,4 +14,4 @@
 		<?php echo $page->text()->kirbytext() ?>
 		</div>
 	</div>
-<?php snippet('footer') ?>
+<?php snippet('footer'); ?>

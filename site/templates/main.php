@@ -1,4 +1,4 @@
-<?php snippet('header') ?>
+<?php if(!r::ajax()) {snippet('header');} ?>
 <div id="main-content" class="container main-content">
 	<div class="btn-container">
 		<div class="btn btn-default btn-icon noHover">
@@ -22,6 +22,6 @@
 		<?php endforeach ?>  
 	</ul>
 </div>
-<?php snippet('footer') ?>
+<?php snippet('footer'); ?>
 
 	

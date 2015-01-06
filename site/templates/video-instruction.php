@@ -1,4 +1,4 @@
-<?php snippet('header') ?>
+<?php if(!r::ajax()) {snippet('header');} ?>
   <div id="main-content" class="container main-content" role="main">
 		<h2>
 				<a href="<?php echo $page->parent()->url()?>">
@@ -11,4 +11,4 @@
 		<?php echo $page->text()->kirbytext() ?>
 		</div>
   </div>
-<?php snippet('footer') ?>
+<?php snippet('footer'); ?>

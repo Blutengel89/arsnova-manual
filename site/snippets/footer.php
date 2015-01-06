@@ -1,5 +1,7 @@
 		<?php 
-			echo js('//code.jquery.com/jquery.js');
+			echo js('//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js');
+			//echo js('assets/js/modernizr.js');
+			//echo js('assets/js/dynamicpage.js');
 			echo js('//netdna.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js');
 			echo js('assets/js/script.js');
 		?>
