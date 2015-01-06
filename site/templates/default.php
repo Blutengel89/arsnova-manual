@@ -7,11 +7,11 @@
 				</div>					    
 			</div>
 			<div class="btn-label">
-				<h2><?php echo $page->title() ?></h2>
+				<h2><?php echo $page->title()->html() ?></h2>
 			</div>
 		</div> 
 		<div class="text">	 
-		<?php echo $page->text()->kirbytext() ?>
+			 <?php echo str_replace('(\\', '(', $page->text()->kt()) ?>
 		</div>
 	</div>
-<?php snippet('footer'); ?>
+<?php if(!r::ajax()) {snippet('footer');} ?>

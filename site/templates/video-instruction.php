@@ -5,7 +5,7 @@
 					<span class="overview icon-menu pull-left"><span class="sr-only"><?php echo l('uebersicht') ?></span>
 					</span>
 				</a>
-				<?php echo $page->title();?>
+				<span><?php echo $page->title();?></span>
 				</h2>
 		<div class="text">		
 		<?php echo $page->text()->kirbytext() ?>
