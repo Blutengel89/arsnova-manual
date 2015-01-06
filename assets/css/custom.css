@@ -2,16 +2,51 @@
 html {
   position: relative;
   min-height: 100%;
-  font-size: 1.0em;
+  font-size: 62.5%;
 }
 body {
   background-color: rgb(224,224,224);
-  font-size:1.0em;
+  font-family: 'Helvetica Neue',HelveticaNeue,Helvetica-Neue,Helvetica,'BBAlpha Sans';
+  font-size:16px;
+  font-size:1.6rem;
   font-weight:200;
 }
 * {
   box-shadow:none !important;
   text-shadow: none !important;
+}
+h1 {
+  font-size: 25px;
+  font-size: 2.5rem;
+  color: #80ba24;
+}
+
+h2 {
+  font-size: 22px;
+  font-size: 2.2rem;
+  line-height:;
+  color: #80ba24;
+}
+
+h3 {
+  font-size: 20px;
+  font-size: 2rem;
+  color: #4a5c66;
+}
+h4 {
+  font-size: 18px;
+  font-size: 1.8rem;
+  color: #4a5c66;
+}
+h5 {
+  font-size: 16px;
+  font-size: 1.6rem;
+  color:#4a5c66;
+}
+h6 {
+  font-size: 14px;
+  font-size: 1.4rem;
+  color: #4a5c66;
 }
 .noOverflow {
   overflow: hidden;
@@ -21,7 +56,8 @@ body {
 }
 
 figcaption {
-  font-size: 0.8em;
+  font-size: 12px;
+  font-size: 1.2rem;
   font-style: italic;
   margin: 10px 0 20px 0;
   color: inherit;
@@ -30,11 +66,11 @@ h2 span {
   display: inline;
   vertical-align: middle;
 }
-.main-content>h2 {
+.main-content>h2, {
   margin:0 0 20px 0;
-  font-size: 1.3em;
   font-weight: 200;
   line-height:1.6em;
+  color: #4a5c66;
   text-align: center;
 
 }
@@ -44,19 +80,13 @@ h2 span {
   box-sizing: border-box;
   text-align: center;
 }
-
 a {
-  color: #4a5c66;
+  color: #80ba24;
 }
 a:hover {
   text-decoration: none;
 
 }
-.btn-default:hover,
-.list-group-item:hover {
-  background-color: rgba(0,0,0,0.1);
-}
-
 .btn-icon.noHover {
   background-color: #ffffff;
   cursor: default;
@@ -92,10 +122,15 @@ a:hover {
   -moz-border-radius: 10px;
   border-radius: 10px;
 }
+.btn-default:hover {
+  background-color: rgba(0,0,0,0.1);
+}
+
 .icon {
   width: 60px;
   height: 60px;
   font-size: 48px;
+  font-size: 4.8rem;
   line-height: 60px;
   margin: auto;
   background-color: transparent;
@@ -109,10 +144,15 @@ a:hover {
 .btn-label {
   margin-top: 10px;
   font-size: 14px;
+  font-size: 1.4rem;
+  color: #4a5c66;
+
 }
 .btn-label h2 {
-  font-size: 1.2em;
+  font-size: 18px;
+  font-size: 1.8rem;
   font-weight: 200;
+  color: #4a5c66;
 }
 .btn-label:hover {
   color: #4a5c66;
@@ -123,15 +163,13 @@ a:hover {
 }
 .gravure p {
   margin: auto;
-  font-size: 1.1em;
+  font-size: 16px;
+  font-size: 1.6rem;
 }
 
-a.thmlink {
-  font-size: 1.4em;
-}
 
 /* 
-:::: Styles default.php ::::
+:::: General Styles ::::
 ----------------------------------------*/
 .main-content {
   padding: 35px 10px;
@@ -140,13 +178,14 @@ a.thmlink {
 }
 
 /* 
-:::: Navigation list on main.php ::::
+:::: Navigation list on sub-navigation.php ::::
 ----------------------------------------*/
 .list-group-item {
   height: 45px;
   border-width: thin;
   border-radius: 0;
-  font-size: 1.1em;
+  font-size: 18px;
+  font-size: 1.8rem;
   overflow:hidden;
   background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAAXNSR0IArs4c6QAAAAZiS0dEALgAuAC41wNsvAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sGEQk7MbF1V5sAAAENSURBVCjPY2CgNigtLS0pKyubSEgdMxqfsbS0tJuRkbGBgYHB3NLS8s+xY8cO49LMhC7AyMgoA5dkYmopLS1NIVbz//v378f///9/D5LYjLKysgCibF69evWvr1+/Bv7///8M1CXMDAwMy0tLS20xXInLSbm5uaIcHBxHGRkZVaFCH//9+2fX09NzCafNMDB58uTXjIyM6UhC/ExMTPPwOhvZ5v///89EEvr479+/JIKas7KyeDg4OLYhOfnH////fZGdjFVzaGgoGw8PzzpGRkYTBgYGhv////9lYGCI7O7uPkwotBkVFRUXMjAwuCKJZXR1dW0gKqr+////BMb+9+9fTXd39xyapG2KAAAvqFz8khrpYwAAAABJRU5ErkJggg==");
   background-position: 100%;
@@ -160,6 +199,9 @@ border-bottom-left-radius: 0;
 border-top-right-radius: 0;
 border-top-left-radius: 0;
 }
+.list-group-item:hover {
+  background-color: rgba(0,0,0,0.1);
+}  
 .list-group-item span:first-child {
    padding-right: 30px;
 }
@@ -169,24 +211,7 @@ border-top-left-radius: 0;
 .list-group a:last-child .list-group-item {
   border-radius: 0 0 15px 15px;
 }
-.icon-button {
-  width: 60px;
-  height:60px;
-  background: #ffffff;
-  border-radius: 5px;
-  margin: 20px auto;
-  padding:15px 10px;
-  text-align: center;
-}
-.icon-button span[class^="icon-"] {
-    display:inline-block;
-    vertical-align: middle;
-    color: #8024ba;
-}
-.icon-button span[class^="icon-"]:before {
-  font-size: 30px;
-  color: #80ba24;
-}
+
 /* 
 :::: Instruction pages (carousel + list) ::::
 -------------------------------------------*/
@@ -251,17 +276,20 @@ div.result-text {
 }
 span.list-counter {
   margin-left: -20px;
-  font-size: 0.9em;
+  font-size: 14px;
+  font-size: 1.4rem;
   font-weight:500;
   color: #80ba24;
 }
 span.instruction-text {
-  font-size: 0.9em;
+  font-size: 14px;
+  font-size: 1.4rem;
   color: inherit;
 }
 
 div.result-text {
-  font-size: 0.9em;
+  font-size: 14px;
+  font-size: 1.4rem;
 }
 
 .btn.btn-default.template {
