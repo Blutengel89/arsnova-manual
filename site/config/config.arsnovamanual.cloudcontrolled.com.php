@@ -32,7 +32,7 @@ c::set('ssl', true);
 c::set('content.file.extension', 'md');
 c::set('debug', true);
 c::set('markdown.extra', true);
-c::set('markdown.breaks', true);
+c::set('markdown.breaks', false);
 c::set('timezone', 'UTC');
 c::set('home', 'start');
 
