@@ -127,6 +127,16 @@ a:hover {
 .btn-default:hover {
   background-color: rgba(0,0,0,0.1);
 }
+.btn-default.home {
+  margin-top: -2px;
+  border:none;
+}
+.btn-default.home a {
+    color: #4a5c66;
+}
+.btn-default.home span:first-child {
+  padding-right: 10px;
+}
 
 .icon {
   width: 60px;
