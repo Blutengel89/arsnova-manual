@@ -7,7 +7,7 @@
 			</div>					    
 		</div>
 		<div class="btn-label">
-			<h2><?php echo $page->title() ?></h2>
+			<h2><?php echo strip_tags($page->title()) ?></h2>
 		</div>
 	</div>  
 	<ul class="list-group" role="navigation">

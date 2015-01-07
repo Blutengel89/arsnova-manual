@@ -1,4 +1,4 @@
-<?php if(!r::ajax()) {snippet('header');} ?>
+<?php snippet('header'); ?>
 	<div id="main-content" class="container main-content" role="main">
 		<div class="btn-container">
 			<div class="btn btn-default btn-icon noHover">

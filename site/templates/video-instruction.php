@@ -1,7 +1,7 @@
-<?php if(!r::ajax()) {snippet('header');} ?>
+<?php snippet('header'); ?>
   <div id="main-content" class="container main-content" role="main">
 		<h2 class="instruction-header">
-				<a href="<?php echo $page->parent()->url()?>">
+				<a href="<?php echo $page->parent()->url()?>" target="_self">
 					<span class="overview icon-menu pull-left"><span class="sr-only"><?php echo l('uebersicht') ?></span>
 					</span>
 				</a>
