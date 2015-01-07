@@ -8,9 +8,9 @@
   }
 ?>
 <head>
-
+<title><?php echo $page->title()->html() ?> | <?php echo $site->title()->html() ?></title>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
   <meta charset="utf-8" />
 
   <meta name="description" content="<? echo $page->description()->html() ?>" />
@@ -36,7 +36,7 @@
   <meta name="DC.Creator" content="<?php echo $site->author()->html() ?>" />
   <meta name="DC.Rights" content="<?php echo $site->author()->html()  ?>" />
   <meta name="DC.Publisher" content="<?php echo $site->author()->html() ?>" />
-  <meta name="DC.Description" content="<?php echo $page->description()->html() ?>"/ >
+  <meta name="DC.Description" content="<?php echo $page->description()->html() ?>" />
   <meta name="DC.Language" content="<$site->language()->code()" />
 
   <meta http-equiv="Cache-control" content="no-store" />
@@ -75,4 +75,4 @@
   <?php echo css('assets/arsnova/style.css') ?>
 
 </head>
-<body>
+<body style="max-width:100%">
