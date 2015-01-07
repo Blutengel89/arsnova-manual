@@ -233,11 +233,9 @@ border-top-left-radius: 0;
   padding:0 24px 0;
   text-align: center;
 }
-item img{max-width:100%;}
-.toggle-list img {padding-bottom:20px;}
-.carousel-caption{position:relative;left:0;right:0;text-shadow:none;bottom:0;color:#000;text-align:left;padding-top:0;}
+
+.carousel-caption{position:relative;left:0;right:0;text-shadow:none;bottom:0;color:#000;text-align:left;padding:0 0 10px 0;}
 .carousel-caption span{display:inline-block;float:left;color:#80ba24}
-.screenshot + .carousel-caption{padding:20px}
 .carousel-caption>span>p{display:inline-block}
 .carousel-inner>.item>img{display:block;margin:0 auto}
 .carousel-control{width:25px}
@@ -246,6 +244,10 @@ item img{max-width:100%;}
 .glyphicon-chevron-right:before,
 .glyphicon-chevron-left:before {
   color: #4a5c66;
+}
+img.screenshot {
+  max-width: 100%;
+  padding-bottom: 20px;
 }
 .carousel-indicators {
   position: relative;
