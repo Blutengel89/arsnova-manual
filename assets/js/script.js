@@ -1,5 +1,5 @@
 
-$('.template).click(function(){
+$('.template').click(function(){
 	console.log(window.location.href);
 	$('.carousel-control').toggleClass('hidden');
 	$('.toggle-temp').toggleClass('carousel-inner');
