@@ -12,7 +12,7 @@
 	</div>  
 	<ul class="list-group" role="navigation">
 		<?php foreach($page->children()->visible() as $child) :?>
-			<a href="<?php echo $child->url() ?>">
+			<a href="<?php echo $child->url() ?>" target="_self">
 				<li class="list-group-item">
 						<div class="text-container noOverflow">
 							<span class=""><?php echo $child->title() ?></span>
