@@ -1,5 +1,6 @@
 <?php snippet('header'); ?>
 	<div id="main-content" class="container main-content" role="main">
+	<a class="btn btn-default pull-left home" href="<?php echo url() ?>"><span class="icon-book"></span><span><?php echo l('start') ?></span></a>
 		<div class="btn-container">
 			<div class="btn btn-default btn-icon noHover">
 				<div class="icon">
