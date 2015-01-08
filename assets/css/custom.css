@@ -84,7 +84,7 @@ a:hover {
   text-decoration: none;
 
 }
-.btn-icon.noHover {
+.btn-default.btn-icon.noHover{
   background-color: #ffffff;
   cursor: default;
 }
