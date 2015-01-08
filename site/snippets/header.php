@@ -72,7 +72,6 @@
   <![endif]-->
   <?php echo css("//netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css") ?>
   <?php echo css('assets/css/custom.css') ?>
-  <?php echo css('assets/arsnova/style.css') ?>
 
 </head>
 <body style="max-width:100%">
