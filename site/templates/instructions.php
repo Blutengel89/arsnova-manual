@@ -4,7 +4,7 @@
 			<h2 class="instruction-header"><a href="<?php echo $page->parent()->url()?>"><span class="overview icon-menu pull-left"><span class="sr-only"><?php echo l('uebersicht') ?></span></span></a><span><?php echo $page->title()->html(); ?></span></h2>
 			<div class="container instructions">	
 				<?php
-					if($_COOKIE["view"] == 'list') { 
+					if (isset($_COOKIE['view']) && ($_COOKIE["view"] == 'list')) { 
 						snippet('list', array('images' => $images, 'count' => $count, 'instructions' => $instructions));
 					}
 					else {
