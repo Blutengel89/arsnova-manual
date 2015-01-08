@@ -229,6 +229,10 @@ a:hover {
   white-space: nowrap;
   display:block;
 }
+@media screen and (max-device-width:320px) {
+  .noOverflow {
+  }
+}
 
 /* 
 :::: Instruction pages (carousel + list) ::::
