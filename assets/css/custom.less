@@ -1,0 +1,419 @@
+
+@import url("../arsnova/style.css");
+html {
+  position: relative;
+  min-height: 100%;
+  font-size: 62.5%;
+}
+body {
+  background-color: rgb(224,224,224);
+  font-family: 'Helvetica Neue',HelveticaNeue,Helvetica-Neue,Helvetica,'BBAlpha Sans';
+  font-size:16px;
+  font-size:1.6rem;
+  font-weight:200;
+  color:#4a5c66;
+}
+* {
+  box-shadow:none !important;
+  text-shadow: none !important;
+}
+h1 {
+  font-size: 25px;
+  font-size: 2.5rem;
+  color: #80ba24;
+}
+
+h2 {
+  font-size: 22px;
+  font-size: 2.2rem;
+  line-height:22px;
+  line-height:2.2rem;
+  color: #80ba24;
+}
+
+h3 {
+  font-size: 20px;
+  font-size: 2rem;
+  color: #4a5c66;
+}
+h4 {
+  font-size: 18px;
+  font-size: 1.8rem;
+  color: #4a5c66;
+}
+h5 {
+  font-size: 16px;
+  font-size: 1.6rem;
+  color:#4a5c66;
+}
+h6 {
+  font-size: 14px;
+  font-size: 1.4rem;
+  color: #4a5c66;
+}
+
+
+figcaption {
+  font-size: 12px;
+  font-size: 1.2rem;
+  font-style: italic;
+  margin: 10px 0 20px 0;
+  color: inherit;
+}
+h2 span{
+  display: inline;
+  vertical-align: middle;
+}
+h2.instruction-header {
+  margin:0 0 20px 0;
+  font-weight: 200;
+  line-height:1.6em;
+  color: #4a5c66;
+  text-align: center;
+
+}
+
+.header {
+  height: 170px;
+  box-sizing: border-box;
+  text-align: center;
+}
+a {
+  color: #80ba24;
+}
+a:hover {
+  text-decoration: none;
+
+}
+.btn-default.btn-icon.noHover{
+  background-color: #ffffff;
+  cursor: default;
+}
+/* 
+:::: Navigation buttons on start page ::::
+----------------------------------------*/
+.btn-group {
+  display: block;
+  margin: 0 auto 20px auto;
+  text-align: center;
+  width:100%;
+}
+.btn-container {
+  width: 130px;
+  margin: 0 5px 5px 5px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center
+}
+.main-content>.btn-container {
+  width:auto;
+  display:block;
+  margin: 0 auto 20px auto;
+}
+
+.btn-default.btn-icon {
+  width: 80px;
+  height: 80px;
+  border: none;
+  padding:10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+.btn-default:hover {
+  background-color: rgba(0,0,0,0.1);
+}
+.btn-default.home {
+  margin-top: 0px;
+  border:none;
+}
+.btn-default.home a {
+    color: #4a5c66;
+}
+.btn-default.home span:first-child {
+  padding-right: 10px;
+}
+
+.icon {
+  width: 60px;
+  height: 60px;
+  font-size: 48px;
+  font-size: 4.8rem;
+  line-height: 60px;
+  margin: auto;
+  background-color: transparent;
+}
+.icon span {
+  color: #4a5c66;
+}
+.icon span.icon-radar:before {
+  color: #80ba24;
+}
+.btn-label {
+  margin-top: 10px;
+  font-size: 14px;
+  font-size: 1.4rem;
+  color: #4a5c66;
+
+}
+.btn-label h2 {
+  font-size: 18px;
+  font-size: 1.8rem;
+  font-weight: 200;
+  color: #4a5c66;
+}
+.btn-label:hover {
+  color: #4a5c66;
+}
+.gravure {
+  padding-top:10px;
+  text-align: center;
+}
+.gravure p {
+  margin: auto;
+  font-size: 16px;
+  font-size: 1.6rem;
+}
+
+
+/* 
+:::: General Styles ::::
+----------------------------------------*/
+.main-content {
+  padding: 35px 10px;
+  max-width: 700px;
+
+}
+
+/* 
+:::: Navigation list on sub-navigation.php ::::
+----------------------------------------*/
+.list-group {
+  width:100%;
+}
+.list-group-item {
+  height: 45px;
+  width:100%;
+  padding:0 10px 0 0;
+  border-width: thin;
+  border-radius: 0;
+  font-size: 18px;
+  font-size: 1.8rem;
+  color: #4a5c66;
+  overflow:hidden;
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAAXNSR0IArs4c6QAAAAZiS0dEALgAuAC41wNsvAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sGEQk7MbF1V5sAAAENSURBVCjPY2CgNigtLS0pKyubSEgdMxqfsbS0tJuRkbGBgYHB3NLS8s+xY8cO49LMhC7AyMgoA5dkYmopLS1NIVbz//v378f///9/D5LYjLKysgCibF69evWvr1+/Bv7///8M1CXMDAwMy0tLS20xXInLSbm5uaIcHBxHGRkZVaFCH//9+2fX09NzCafNMDB58uTXjIyM6UhC/ExMTPPwOhvZ5v///89EEvr479+/JIKas7KyeDg4OLYhOfnH////fZGdjFVzaGgoGw8PzzpGRkYTBgYGhv////9lYGCI7O7uPkwotBkVFRUXMjAwuCKJZXR1dW0gKqr+////BMb+9+9fTXd39xyapG2KAAAvqFz8khrpYwAAAABJRU5ErkJggg==");
+  background-position: 100%;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+}
+
+.list-group-item a {
+  display:block;
+  height:100%;
+  padding: 10px 15px;
+  color: #4a5c66;
+}
+.list-group-item:hover {
+  background-color: rgba(0,0,0,0.1);
+}  
+
+.list-group-item:first-child {
+  border-radius: 15px 15px 0 0;
+}
+.list-group-item:last-child {
+  border-radius: 0 0 15px 15px;
+}
+.noOverflow {
+  width:285px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display:block;
+}
+@media screen and (min-width:350px) {
+  .noOverflow {
+    width:325px;
+  }
+}
+@media screen and (min-width:375px) {
+  .noOverflow {
+    width:335px;
+  }
+}
+@media screen and (min-width:414px) {
+  .noOverflow {
+    width:374px;
+  }
+}
+
+@media screen and (min-width:450px) {
+  .noOverflow {
+    width:410px;
+  }
+}
+@media screen and (min-width:500px) {
+  .noOverflow {
+    width:460px;
+  }
+}
+@media only screen and (min-width:550px) {
+  .noOverflow {
+    width:515px;
+  }
+}
+@media only screen and (min-width:600px) {
+  .noOverflow {
+    width:565px;
+  }
+}
+@media only screen and (min-width:650px) {
+  .noOverflow {
+    width:605px;
+  }
+}
+@media only screen and (min-width : 700px)  {
+  .noOverflow {
+    width:655px;
+  }
+}
+/*
+:::: Instruction pages (carousel + list) ::::
+-------------------------------------------*/
+.toggle-carousel {
+  width: 100%;
+}
+.instructions {
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+.carousel{
+  margin-top: 40px; 
+  padding:0
+}
+.item {
+  padding:0 24px 0;
+  text-align: center;
+}
+
+.carousel-caption{position:relative;left:0;right:0;text-shadow:none;bottom:0;color:#000;text-align:left;padding:0 0 10px 0;}
+.carousel-caption span{display:inline-block;float:left;color:#80ba24}
+.carousel-caption>span>p{display:inline-block}
+.carousel-inner>.item>img{display:block;margin:0 auto}
+.carousel-control{width:25px}
+.carousel-control.left,.carousel-control.right{background-image:none;}
+
+.glyphicon-chevron-right:before,
+.glyphicon-chevron-left:before {
+  color: #4a5c66;
+}
+img.screenshot {
+  max-width: 100%;
+  padding-bottom: 20px;
+}
+.carousel-indicators {
+  position: relative;
+  width: 100%;
+  margin:0 auto;
+  left:0;
+  text-align: center;
+}
+.carousel-indicators li {
+  border: 1px solid #80ba24;
+}
+.carousel-indicators .active {
+  width: 10px;
+  height:10px;
+  margin: 1px;
+  background-color: #80ba24;
+}
+div.container .toggle-carousel,
+div.toggle-carousel .container {
+  width: auto;
+}
+div.container.instructions {
+  padding-bottom:1.3em;
+}
+div.instruction-item {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+div.result-text {
+  margin-left: 20px;
+}
+span.list-counter {
+  margin-left: -20px;
+  font-size: 14px;
+  font-size: 1.4rem;
+  font-weight:500;
+  color: #80ba24;
+}
+span.instruction-text {
+  font-size: 14px;
+  font-size: 1.4rem;
+  color: inherit;
+}
+
+div.result-text {
+  font-size: 14px;
+  font-size: 1.4rem;
+}
+
+.btn.btn-default.template {
+  display:none;
+  padding-left: 10px;
+  border: none;
+}
+@media screen and (min-width:48em) {
+  .btn.btn-default.template {
+      display:inline-block;
+      margin-top:5px;
+  }
+}
+
+figure.video {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px; 
+  height: 0; 
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.video iframe,
+.video object,
+.video embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+span[class^="icon-"].overview, span[class*=" icon-"].overview {
+  line-height:1.6em;
+  padding-right: 10px;
+}
+figure.center {
+  text-align: center;
+}
+figure >img {
+  padding: 10px;
+}
+.toggle-carousel .to-top {
+  display:none;
+  position: fixed;
+  bottom: 20px;
+  right:5%;
+}
+
+@media screen and (min-width:48em) {
+  .toggle-list .to-top {
+      position: fixed;
+      bottom: 40px;
+      right:3%;
+      display:block;
+  }
+}
+.text {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 15px;
+}
