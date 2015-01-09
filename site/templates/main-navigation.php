@@ -16,8 +16,7 @@
 							    </div>
 						</div>
 				    </a>
-			    <?php if($i % 2 != 0) {echo '</div>';} ?>
-			    <?php if($i % 2 == 0 && ($page->hasNextVisible() == false)) { echo '<div class="btn-group">';} ?>
+			    <?php if($i % 2 != 0 || ($i % 2 == 0 && $page->hasNextVisible() == false)) {echo '</div>';} ?>
 			<?php $i++; endforeach ?>  
 		</nav>
 		
