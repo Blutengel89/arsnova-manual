@@ -279,10 +279,9 @@ a:hover {
 /*
 :::: Instruction pages (carousel + list) ::::
 -------------------------------------------*/
-.toggle-carousel {
-  width: 100%;
-}
+
 .instructions {
+  width: 100%;
   background-color: #ffffff;
   border-radius: 15px;
 }
@@ -295,18 +294,30 @@ a:hover {
   text-align: center;
 }
 
-.carousel-caption{position:relative;left:0;right:0;text-shadow:none;bottom:0;color:#000;text-align:left;padding:0 0 10px 0;}
-.carousel-caption span{display:inline-block;float:left;color:#80ba24}
-.carousel-caption>span>p{display:inline-block}
-.carousel-inner>.item>img{display:block;margin:0 auto}
-.carousel-control{width:25px}
-.carousel-control.left,.carousel-control.right{background-image:none;}
+.carousel-caption {
+  position:relative;
+  right:0;
+  left:0;
+  bottom:0;
+  text-shadow:none;
+  text-align:left;
+  padding:0 0 10px 0;
+}
+.carousel-control{
+  width:25px
+}
+.carousel-control.left,
+.carousel-control.right {
+  background-image:none;
+}
 
 .glyphicon-chevron-right:before,
 .glyphicon-chevron-left:before {
   color: #4a5c66;
 }
 img.screenshot {
+  display:block;
+  margin:0 auto;
   max-width: 100%;
   padding-bottom: 20px;
 }
@@ -350,12 +361,13 @@ span.list-counter {
 span.instruction-text {
   font-size: 14px;
   font-size: 1.4rem;
-  color: inherit;
+  color: #4a5c66;
 }
 
 div.result-text {
   font-size: 14px;
   font-size: 1.4rem;
+  color: #4a5c66;
 }
 
 .btn.btn-default.template {
@@ -397,21 +409,14 @@ figure.center {
 figure >img {
   padding: 10px;
 }
-.toggle-carousel .to-top {
+.to-top {
   display:none;
   position: fixed;
   bottom: 20px;
   right:5%;
 }
 
-@media screen and (min-width:48em) {
-  .toggle-list .to-top {
-      position: fixed;
-      bottom: 40px;
-      right:3%;
-      display:block;
-  }
-}
+
 .text {
   background-color: #ffffff;
   padding: 20px;

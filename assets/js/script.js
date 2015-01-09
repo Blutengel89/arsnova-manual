@@ -2,8 +2,9 @@
 $('.template').click(function(){
 	$('.carousel-control').toggleClass('hidden');
 	$('.toggle-temp').toggleClass('carousel-inner');
-	$('.container').toggleClass('toggle-carousel').toggleClass('toggle-list');
+	$('.instructions').toggleClass('toggle-carousel').toggleClass('toggle-list');
 	$('.carousel-indicators').toggleClass('hidden');
+	$('.to-top').toggleClass('show');
 	var cookieValue = $.cookie("view");
 	if(cookieValue == 'carousel') {
 		$.cookie("view", "list");
