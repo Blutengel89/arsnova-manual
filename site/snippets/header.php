@@ -30,11 +30,9 @@
   <meta property="og:description" content="<?php echo $page->description() ?>" />
   <meta name="DC.Title" content="<?php echo $page->title()->html() ?> | <?php echo $site->title()->html()  ?>" />
   <meta name="DC.Creator" content="<?php echo $site->author()->html() ?>" />
-  <meta name="DC.Rights" content="<?php echo $site->author()->html()  ?>" />
   <meta name="DC.Publisher" content="<?php echo $site->author()->html() ?>" />
   <meta name="DC.Description" content="<?php echo $page->description()->html() ?>" />
   <meta name="DC.Language" content="<$site->language()->code()" />
-  <meta http-equiv="cleartype" content="on" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
