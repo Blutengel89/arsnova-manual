@@ -53,19 +53,21 @@ Relative Links zu einer bestimmten Seite innerhalb der Website:
 (\link: ueber-arsnova)
 ```
 ### Bilder
+Bilder werden innerhalb eines figure-tags eingefügt. Um ein Bild mittig zu zentrieren, fügen Sie dem image tag die Klasse "center" hinzu.
 Bild aus dem gleichen Ordner einfügen ohne weitere Optionen:
 ```
 (\image: just-in-time-teaching.png)
 ```
 Optionen:
 - title
+- class
 - alt
 - caption
 - width
 - height etc.
 
 ```
-(\image: just-in-time-teaching.png alt: Die Umsetzung des Just-in-Time Teaching Konzeptes in ARSnova width: 100% height:auto)
+(\image: just-in-time-teaching.png alt: Die Umsetzung des Just-in-Time Teaching Konzeptes in ARSnova class: center width: 300px height:300px)
 ```
 Bilder von externen Websites verlinken:
 ```
