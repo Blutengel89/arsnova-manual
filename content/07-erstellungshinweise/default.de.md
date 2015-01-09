@@ -39,7 +39,7 @@ Text wird in (link: http://daringfireball.net/projects/markdown/syntax text: Mar
 ### Links
 Link ohne Linktext:
 ```
-(\link: http://arsnova.eu)
+<http://arsnova.eu> //ohne spitze Klammern
 ```
 Link mit Linktext:
 
@@ -83,6 +83,5 @@ Datei verlinken mit Linktext:
 ```
 (\youtube: https://www.youtube.com/watch?v=T3FTTVFPglw#t=89)
 ```
-Weitere Infos zu Kirbytext: (link: http://getkirby.com/docs/content/text)
-
+Weitere Infos zu Kirbytext: http://getkirby.com/docs/content/text
 
