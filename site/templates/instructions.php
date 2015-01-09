@@ -1,6 +1,6 @@
 <?php snippet('header'); ?>
 <div id="main-content" class="container main-content">
-		<button href="<?php echo $page->url() ?>" type="button" class="btn btn-default template pull-right"><?php echo l::get('ansicht'); ?></button>
+		<button type="button" class="btn btn-default template pull-right"><?php echo l::get('ansicht'); ?></button>
 			<h2 class="instruction-header"><a href="<?php echo $page->parent()->url()?>"><span class="overview icon-menu pull-left"><span class="sr-only"><?php echo l('uebersicht') ?></span></span></a><span><?php echo $page->title()->html(); ?></span></h2>
 			<div class="container instructions  toggle-carousel">	
 				<?php
