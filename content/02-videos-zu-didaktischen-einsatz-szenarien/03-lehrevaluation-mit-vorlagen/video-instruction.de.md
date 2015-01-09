@@ -3,7 +3,7 @@ Title: Lehrevaluation mit Vorlagen aus dem Public Pool
 Text:
 Hier kann entweder nur Text stehen oder auch Videos und Bilder eingebunden werden. Zum Einbinden von Bildern und Videos werden Kirbytags verwendet, z.B. youtube-tag oder image-tag. Beispiele sehen Sie hier in dieser Datei.
 
-(image: example.png width: 100% height: auto class: alt: Dies ist ein Beispiel-Bild)
+(image: example.png class: alt: Dies ist ein Beispiel-Bild)
 
 Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte.
 
