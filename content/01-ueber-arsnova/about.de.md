@@ -4,16 +4,8 @@ Icon: radar
 ----
 Text:
 
-Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte.
+ARSnova ist ein innovatives (link: https://de.wikipedia.org/wiki/Audience_Response_System text: Audience Response System title: Wikiepdia-Artiekl zum Begriff ARS). Es hilft, Vorlesungen, Übungen und Seminare interaktiver zu gestalten. ARSnova schafft einen Rückkanal zwischen dem Auditorium und der Lehrperson: Studierende können anonym Feedback geben in der Vorbereitung (Lehrstrategie „Just-in-Time Teaching“), während der Vorlesung (Lehrmethode „Peer Instruction“) und spontan per Zwischenfragen und Live Feedback.
 
-Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.
+Bildungseinrichtungen können den Webservice **arsnova.eu** kostenlos und ohne Registrierung frei nutzen. Die Software steht unter einer (link: https://arsnova.github.io/home.html text: Open-Source-Lizenz title: ARSnova bei GitHub) und kann auf einem eigenen Server betrieben werden.
 
-Solche Regelialien betreffen z.B.
-
-- die Grammatik
-- die Zeichensetzung oder
-- die Rechtschreibung
-
-(image: arsnova-logo.jpg alt: ARSnova-Logo als Button class: center height: 100px)
-
-Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisch
+Details zum ARSnova-Projekt finden Sie unter <https://arsnova.eu/blog/features>.
