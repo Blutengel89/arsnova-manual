@@ -6,4 +6,4 @@ Description: ARSnova is a novel approach to Audience Response Systems (ARS), hen
 ----
 Keywords: ARSnova, ARS, THM, Audience Response System, HTML5 App, online feedback
 ----
-Copyright:  A (link:http://thm.de text: THM) Product&nbsp;|&nbsp;Manual Design: (link: http://www.texniq.de text: texniq)
+//Copyright:  A (link:http://thm.de text: THM) Product&nbsp;|&nbsp;Manual Design: (link: http://www.texniq.de text: texniq)

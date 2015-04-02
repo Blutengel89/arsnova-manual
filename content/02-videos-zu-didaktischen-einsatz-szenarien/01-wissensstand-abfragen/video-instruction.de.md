@@ -1,4 +1,4 @@
-Title: Wissenstand abfragen
+Title: Fragen und Antwortstatistik präsentieren
 ----
 Text:
 Hier kann entweder nur Text stehen oder auch Videos und Bilder eingebunden werden. Zum Einbinden von Bildern und Videos werden Kirbytags verwendet, z.B. youtube-tag oder image-tag. Beispiele sehen Sie hier in dieser Datei.

@@ -10,12 +10,22 @@ Instructions:
 	result: >
 		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
 -
-	instruction:> 
+	instruction:>
 		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: > 
+	result: >
 		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
 -
 	instruction:>
 		Und nun machen Sie dies.
 	result: >
-		Anschließend passiert wieder etwas.		
+		Anschließend passiert wieder etwas.
+-
+	instruction:>
+		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+	result: >
+		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+-
+	instruction:>
+		Und nun machen Sie dies.
+	result: >
+		Anschließend passiert wieder etwas.			

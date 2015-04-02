@@ -1,5 +1,7 @@
 .DS_Store
 /site/accounts
+site/blueprints
 /assets/avatars
+/panel
 /thumbs/*
 update.sh

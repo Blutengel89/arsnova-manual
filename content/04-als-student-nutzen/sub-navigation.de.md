@@ -1,6 +1,6 @@
-Title: Als Student/in<br /> nutzen
+Title: Rolle Student/in
 
 ----
 Icon: users
 ----
-Text: 
+Text:

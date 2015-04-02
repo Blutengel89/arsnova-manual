@@ -81,7 +81,7 @@ a:hover {
   background-color: #ffffff;
   cursor: default;
 }
-/* 
+/*
 :::: Navigation buttons on start page ::::
 ----------------------------------------*/
 .btn-group {
@@ -129,7 +129,7 @@ a:hover {
   height: 60px;
   font-size: 48px;
   font-size: 4.8rem;
-  line-height: 60px;
+  line-height: 67px;
   margin: auto;
   background-color: transparent;
 }
@@ -163,14 +163,14 @@ a:hover {
   font-size: 16px;
   font-size: 1.6rem;
 }
-/* 
+/*
 :::: General Styles ::::
 ----------------------------------------*/
 .main-content {
   padding: 35px 10px;
   max-width: 700px;
 }
-/* 
+/*
 :::: Navigation list on sub-navigation.php ::::
 ----------------------------------------*/
 .list-group {
