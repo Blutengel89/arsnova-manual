@@ -17,3 +17,8 @@ Mit Peer Instruction wird die klassische 90-Minuten-Vorlesung durch drei bis vie
 * Die Lehrperson geht entlang der Sitzreihen durch den Hörsaal und versucht herauszuhören, ob die Konzepte und die Terminologie des Faches beim Argumentieren korrekt verwendet werden und gibt exemplarisch Hilfestellung.
 
 * Nach der Peer-Instruction-Phase wird ein zweites Mal über die Antwortoptionen abgestimmt. Die Lehrperson schaltet die Antwortstatistik der ersten und zweiten Runde mit hervorgehobener richtiger Antwort frei. Abschließend erläutert jemand aus dem Plenum oder die Lehrperson die richtige Antwort.
+
+****
+
+(youtube: https://www.youtube.com/watch?v=wont2v_LZ1E#t=241)
+Aufnahme einer Peer-Instruction-Sitzung: (link: https://www.youtube.com/watch?v=wont2v_LZ1E#t=241 text: Eric Mazur shows interactive teaching)
