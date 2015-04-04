@@ -1,4 +1,4 @@
-Title: Session für den Public Pool freigeben
+Title: Eine Session für den Public Pool freigeben
 ----
 Instructions:
 -

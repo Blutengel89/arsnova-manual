@@ -9,8 +9,6 @@ URL-Key: about-arsnova
 Icon: radar
 ----
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+Sorry, the English version of the ARSnova manual is still on our to-do list.
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Ev
+Please try the German version. There is only little text and the use cases are explained with screenshots.

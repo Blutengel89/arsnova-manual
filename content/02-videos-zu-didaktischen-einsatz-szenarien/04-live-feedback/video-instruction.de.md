@@ -2,6 +2,8 @@ Title: Live Feedback
 ----
 Text:
 
+(image: button-matrix.png class: center caption: Optionen des Live Feedbacks)
+
 Anonymes Live Feedback des Auditoriums zum Verständnis des gerade stattfindenden Lehrvortrags hilft sowohl dem Vortragenden als auch den Zuhörenden:
 
 * Die Lehrperson kann spontan auf rückgemeldete Defizite in ihrem Vortrag reagieren, zum Beispiel wenn sie Fachbegriffe oder Abkürzungen verwendet, die nicht erklärt oder verstanden wurden, und deshalb ein Teil des Auditoriums inhaltlich nicht mehr folgen kann.

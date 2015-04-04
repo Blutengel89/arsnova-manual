@@ -1,4 +1,4 @@
-Title: Eine Frage an die Studierenden formulieren
+Title: Fragen erstellen
 ----
 Instructions:
 -
@@ -7,7 +7,7 @@ Instructions:
 	result: >
 		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
 -
-	instruction:> 
+	instruction:>
 		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: > 
+	result: >
 		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.

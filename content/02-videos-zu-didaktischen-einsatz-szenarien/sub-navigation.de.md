@@ -1,5 +1,5 @@
 Title: Einsatz-Szenarien
 ----
-Icon: video
+Icon: prof
 ----
 Text:

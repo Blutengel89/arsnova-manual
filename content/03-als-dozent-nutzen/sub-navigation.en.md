@@ -1,8 +1,8 @@
-Title: Use as techer
+Title: Teacher role
 
 ----
 
 Icon: presenter
 
 ----
-Text: 
+Text:
