@@ -1,4 +1,4 @@
-Title: Live Feedback geben
+Title: Live Feedback zum Tempo und Verständnis geben
 ----
 Instructions:
 -
@@ -7,7 +7,42 @@ Instructions:
 	result: >
 		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
 -
-	instruction:> 
+	instruction:>
 		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: > 
+	result: >
+		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+-
+	instruction:>
+		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+	result: >
+		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+-
+	instruction:>
+		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+	result: >
+		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+-
+	instruction: >
+		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+	result: >
+		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+-
+	instruction:>
+		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+	result: >
+		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+-
+	instruction:>
+		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+	result: >
+		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+-
+	instruction:>
+		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+	result: >
+		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+-
+	instruction:>
+		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+	result: >
 		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.

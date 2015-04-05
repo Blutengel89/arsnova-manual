@@ -3,9 +3,9 @@ Title: Eine Session anlegen
 Instructions:
 -
 	instruction:>
-		Wählen Sie die Rolle Dozent/in. Später können Sie Ihre Session auch in der Rolle Student/in testen.
+		Wählen Sie die Rolle Dozent/in. Später können Sie Ihre Session in der Rolle Student/in testen.
 	result: >
-		⇒  Sie kommen auf die Anmeldungsseite...
+		⇒ Sie kommen auf die Anmeldungsseite...
 -
 	instruction:>
 		Zum Kennenlernen von ARSnova wählen Sie den Gast-Login.
@@ -30,7 +30,7 @@ Instructions:
 	instruction:>
 		Mit "Weiter" werden Sie auf die Zugangsbeschränkung Ihrer Session hingewiesen.
 	result: >
-		☞ Der spätere Zugang zur Session in der Dozentenrolle ist am gewählten Login gebunden.
+		☞ Der Zugang zur Session in der Dozentenrolle ist am gewählten Login gebunden.
 -
 	instruction:>
 		Bestätigen Sie den Hinweis mit "Weiter".
