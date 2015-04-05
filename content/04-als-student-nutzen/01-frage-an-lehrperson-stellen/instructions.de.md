@@ -3,46 +3,36 @@ Title: Eine Frage an die Lehrperson stellen
 Instructions:
 -
 	instruction: >
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Wählen Sie die Rolle "Student/in".
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		⇒ Sie kommen auf die Seite für die Auswahl der Session...
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Geben Sie die 8-stellige Session-ID ein, die Sie von der Lehrperson erhalten haben.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Frei zugängliche Sessions finden Sie im Pool mit der grünen Wolke.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Auf der Startseite klicken Sie auf das grüne Fragezeichen, um eine Frage zu stellen.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		⇒ Sie kommen zum Fragenformular...
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Sie müssen ein Thema eingeben, das in der Fragenübersichtsseite angezeigt wird.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Die Lehrperson kann Ihre Frage nur lesen, aber in ARSnova nicht beantworten.
 -
 	instruction: >
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Zurück auf der Startseite sehen Sie Zahlen-Badges im Menüpunkt "Meine Fragen".
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Die 1. Zahl (grau) nennt die Anzahl Ihrer Fragen, die 2. Zahl (rot) die ungelesenen Fragen.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Der Menüpunkt "Meine Fragen" listet die gelesenen (grün) und ungelesenen Themen (rot).
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Die Liste Ihrer Fragen sieht nur die Lehrperson, sonst niemand.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Genau so sieht auch die Lehrperson Ihre Frage und kann sie auch löschen.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Ihre Fragen werden in der thematischen Übersicht in umgekehrter zeitlicher Folge angezeigt.

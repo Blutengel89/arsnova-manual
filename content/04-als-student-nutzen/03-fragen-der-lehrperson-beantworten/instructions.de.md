@@ -3,46 +3,21 @@ Title: Fragen der Lehrperson beantworten
 Instructions:
 -
 	instruction: >
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Auf der Startseite wählen Sie im Menü "Vorbereitungsfragen" oder "Hörsaalfragen".
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Der 1. Badge ist die Zahl unbeantworteter Fragen, der 2. Badge die aktuelle Stimmabgabe.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Im Fragenkarussell werden Sie automatisch zur nächsten unbeantworteten Frage geführt.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Eine beantworte Frage hat einen Grauschleier. Das grüne Balken-Icon führt zur Statistik.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Solange die Frage nicht gesperrt wurde, werden Antworten live angezeigt.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		⇒ Über das Häkchen-Icon oben rechts können Sie die richtige Antwort einblenden...
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Über den "Zurück"-Schalter kommen Sie ins Fragenkarussell.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction: >
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Wenn Sie die letzte Frage beantwort haben, landen Sie wieder auf der Startseite.

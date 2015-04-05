@@ -3,46 +3,16 @@ Title: Live Feedback zum Tempo und Verständnis geben
 Instructions:
 -
 	instruction: >
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Auf der Startseite der Session klicken Sie auf den Button mit dem Megaphon.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		⇒ Sie kommen auf eine Seite mit vier Feedback-Optionen...
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Wählen Sie einen Button, um das Tempo und Ihr Verständnis der Vorlesung zu signalisieren.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		⇒ Sie kommen auf die Live-Feedback-Seite...
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Sie können hier direkt auf die Smileys klicken, um Ihr Feedback zu aktualisieren.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction: >
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Ihr letztes Feedback wird nach 10 Minuten zurückgesetzt.

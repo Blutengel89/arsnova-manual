@@ -1,48 +1,24 @@
 Title: Fragen und Antwortstatistik präsentieren
 ----
 Instructions:
+
 -
 	instruction: >
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Auf der Startseite Ihrer Session klicken Sie auf den Button "Fragen präsentieren".
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		⇒ Dieser Button mit dem Redner-Icon wird nur angezeigt, wenn Hörsaalfragen vorhanden sind.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Präsentieren Sie dem Auditorium die Fragen und Antwortoptionen nacheinander im Fragenkarussell.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		⇒ Mit den unteren Kippschaltern können Sie jede Frage und Antwortstatistik einzeln freigeben.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Nach der Abstimmung können Sie die Statistik über das Icon oben rechts aufrufen und präsentieren.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		⇒ Die Abstimmungen werden live angezeigt, was das Abstimmverhalten beeinflussen kann.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Nach der Abstimmung können Sie über das Häkchen oben rechts die richtige Antwort einblenden.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction: >
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		⇒ Der 1. Wert vor dem Icon ist die Stimmenanzahl, der 2. Wert die Anzahl User, die online sind.

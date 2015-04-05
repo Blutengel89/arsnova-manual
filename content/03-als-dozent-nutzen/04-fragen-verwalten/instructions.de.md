@@ -1,48 +1,33 @@
-Title: Fragen verwalten
+Title: Fragen verwalten und editieren
 ----
 Instructions:
 -
 	instruction: >
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Sie gelangen über die Menü-Liste zur Verwaltung der Hörsaal- und Vorbereitungsfragen.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Der 1. Wert (grau) ist die Anzahl Fragen, der 2. Wert (orange) die Stimmabgabe.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Auf der Fragenverwaltungsseite klicken Sie die zu editierende Frage in der Liste an.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		⇒ Zu Ihrer Orientierung steht oben, welche der beiden Fragenkategorien Sie ausgewählt haben.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		In den Editiermodus einer Frage kommen Sie über den grünen Schalter "Bearbeiten" oben rechts.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Bis auf das Frageformat können Sie alle Angaben (Thema, Frage, Antwortoptionen) ändern.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Die bis zu sechs Buttons einer Frage erlauben entsprechende Einstellungen und Anzeigen.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Unten werden die Antwortoptionen der Frage mit der jeweiligen Stimmangabe gelistet.
 -
 	instruction: >
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Mit dem "Zurück"-Schalter oben links kommen Sie wieder auf die Verwaltungsseite aller Fragen.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Mit dem Kippschalter können Sie alle Fragen auf einmal sperren oder freigeben.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Wenn Sie die Seite ganz nach unten scrollen, sehen Sie die beiden globalen Lösch-Buttons.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Wenn Sie die Antworten löschen, bleiben die Fragen erhalten.

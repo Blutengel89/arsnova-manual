@@ -1,48 +1,38 @@
-Title: Eine Session verwalten
+Title: Eine Session sperren, exportieren und importieren
 ----
 Instructions:
 -
 	instruction: >
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Auf der Startseite können Sie mit dem Schloss-Button den Zugang zur Session sperren.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Angemeldete User bleiben in der Session. Verhindert Mehrfachabstimmen über andere Browser.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Auf der Sessions-Seite weisen die Zahlen-Badges auf die Menge der Fragen- und Antworten hin.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Rote Namen sind gesperrte Sessions, ein roter Badge signalisiert ungesehene Zuhörerfragen.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Über die unteren Buttons können Sessions exportiert und importiert werden.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ In der Dozentenrolle ist ein Export in den öffentlichen Session-Pool (Wolken-Icon) möglich.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Sie können Ihre eigenen Sessions im Pool veröffentlichen oder fremde Sessions dort kopieren.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ In der Rolle Student/in können Pool-Sessions beliebig ausgewählt und besucht werden.
 -
 	instruction: >
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Pool-Sessions werden in vorgegebene Kategorien nach Thema und Zielgruppe einsortiert.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Wie viele Sessions in den Kategorien vorhanden sind, zeigen die grünen Zahlen-Badges an.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Sie kopieren die ausgewählte Pool-Session mit dem grünen Schalter oben rechts.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ Auf der Info-Seite der Pool-Session steht die Anzahl der vorhandenen Fragen und die Lizenz.
 -
 	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
+		Die kopierte Pool-Session wird unter einer neuen Session-ID in Ihre Session-Liste eingetragen.
 	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
--
-	instruction:>
-		Tun Sie dies: Beschreiben Sie hier den auszuführenden Handlungsschritt.
-	result: >
-		Dann passiert das. Beschreiben Sie hier das Resultat bzw. wichtige Ergänzungen.
+		☞ User in der Rolle Student/in besuchen immer das Original der Pool-Session.

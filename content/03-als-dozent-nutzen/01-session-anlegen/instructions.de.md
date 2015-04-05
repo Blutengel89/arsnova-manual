@@ -1,4 +1,4 @@
-Title: Eine Session anlegen
+Title: Eine neue Session anlegen
 ----
 Instructions:
 -
