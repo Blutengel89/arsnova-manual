@@ -10,12 +10,12 @@ Instructions:
 	instruction:>
 		Auf der Sessions-Seite weisen die Zahlen-Badges auf die Menge der Fragen- und Antworten hin.
 	result: >
-		☞ Rote Namen sind gesperrte Sessions, ein roter Badge signalisiert ungesehene Zuhörerfragen.
+		☞ Rote Namen sind gesperrte Sessions, ein roter Badge signalisiert ungelesene Zuhörerfragen.
 -
 	instruction:>
 		Über die unteren Buttons können Sessions exportiert und importiert werden.
 	result: >
-		☞ In der Dozentenrolle ist ein Export in den öffentlichen Session-Pool (Wolken-Icon) möglich.
+		☞ In der Dozentenrolle ist ein Export in den öffentlichen Session-Pool (grüne Wolke) möglich.
 -
 	instruction:>
 		Sie können Ihre eigenen Sessions im Pool veröffentlichen oder fremde Sessions dort kopieren.

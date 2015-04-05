@@ -1,5 +1,4 @@
 Title: About ARSnova
-
 ----
 
 URL-Key: about-arsnova

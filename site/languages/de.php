@@ -1,7 +1,7 @@
 <?php
 l::set('ansicht', 'Ansicht ändern');
 l::set('totop', 'Nach oben');
-l::set('start', 'Start');
+l::set('start', 'Inhalt');
 l::set('next', 'Weiter');
 l::set('back', 'Zurück ');
 l::set('prevpage', 'Vorherige Seite');

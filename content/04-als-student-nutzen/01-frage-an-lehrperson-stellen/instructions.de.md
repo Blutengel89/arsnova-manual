@@ -20,7 +20,7 @@ Instructions:
 	instruction:>
 		Sie müssen ein Thema eingeben, das in der Fragenübersichtsseite angezeigt wird.
 	result: >
-		☞ Die Lehrperson kann Ihre Frage nur lesen, aber in ARSnova nicht beantworten.
+		☞ Die Lehrperson kann Ihre Frage nur lesen, nicht aber in ARSnova beantworten.
 -
 	instruction: >
 		Zurück auf der Startseite sehen Sie Zahlen-Badges im Menüpunkt "Meine Fragen".
@@ -28,11 +28,11 @@ Instructions:
 		☞ Die 1. Zahl (grau) nennt die Anzahl Ihrer Fragen, die 2. Zahl (rot) die ungelesenen Fragen.
 -
 	instruction:>
-		Der Menüpunkt "Meine Fragen" listet die gelesenen (grün) und ungelesenen Themen (rot).
+		Von der Lehrperson gelesene Themen werden grün, ungelesene rot angezeigt.
 	result: >
-		☞ Die Liste Ihrer Fragen sieht nur die Lehrperson, sonst niemand.
+		☞ Die Liste Ihrer anonymen Fragen sieht nur die Lehrperson, sonst niemand.
 -
 	instruction:>
-		Genau so sieht auch die Lehrperson Ihre Frage und kann sie auch löschen.
+		Genau so sieht die Lehrperson Ihre Frage mit Datum und Uhrzeitund kann sie auch löschen.
 	result: >
-		☞ Ihre Fragen werden in der thematischen Übersicht in umgekehrter zeitlicher Folge angezeigt.
+		☞ Ihre Fragen werden in der thematischen Übersicht in umgekehrter zeitlicher Folge gelistet.

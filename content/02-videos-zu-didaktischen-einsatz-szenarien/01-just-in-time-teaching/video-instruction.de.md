@@ -8,7 +8,7 @@ Erklärvideo von Fidelma Rigby, School of Medicine, Virginia Commonwealth Univer
 
 ****
 
-Just-in-Time Teaching (JiTT) ist eine Lehrstrategie, die auf der Rückmeldung der Studierenden zu ihren Hausaufgaben basiert, um die nächste Vorlesung inhaltlich angepasst vorzubereiten. Engagement und Motivation der Studierenden sollen auf diese Weise gefördert und die Effizienz des Präsenzunterrichts verbessert werden.
+Just-in-Time Teaching (JiTT) ist eine Lehrmethode, die auf der Rückmeldung der Studierenden zu ihren Hausaufgaben basiert, um die nächste Vorlesung inhaltlich angepasst vorzubereiten. Engagement und Motivation der Studierenden sollen auf diese Weise gefördert und die Effizienz des Präsenzunterrichts verbessert werden.
 
 Das am Vorabend der Vorlesung von ARSnova ausgewertete studentische Feedback (Beantwortung der Vorbereitungsfragen, anonyme Fragen an die Lehrperson) erlaubt der Lehrperson, ihren Unterricht bestmöglich auf die tatsächlichen Bedürfnisse der Studierenden auszurichten.
 

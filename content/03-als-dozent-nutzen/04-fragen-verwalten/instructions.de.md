@@ -10,10 +10,10 @@ Instructions:
 	instruction:>
 		Auf der Fragenverwaltungsseite klicken Sie die zu editierende Frage in der Liste an.
 	result: >
-		⇒ Zu Ihrer Orientierung steht oben, welche der beiden Fragenkategorien Sie ausgewählt haben.
+		☞ Zu Ihrer Orientierung steht oben, welche der beiden Fragenkategorien Sie ausgewählt haben.
 -
 	instruction:>
-		In den Editiermodus einer Frage kommen Sie über den grünen Schalter "Bearbeiten" oben rechts.
+		In den Editiermodus einer Frage gelangen Sie über den grünen Schalter "Bearbeiten" oben rechts.
 	result: >
 		☞ Bis auf das Frageformat können Sie alle Angaben (Thema, Frage, Antwortoptionen) ändern.
 -

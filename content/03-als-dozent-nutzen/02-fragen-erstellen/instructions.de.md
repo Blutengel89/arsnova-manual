@@ -40,7 +40,7 @@ Instructions:
 	instruction:>
 		Beim Frageformat Bild können Sie einer Abbildung ein 16x16-Raster als Planquadrat unterlegen.
 	result: >
-		☞ Sie können beliebige Planquadrate als "richtig" festlegen und mit Punkten gewichten.
+		☞ Sie können beliebige Felder als "richtig" festlegen und mit Punkten gewichten.
 -
 	instruction:>
 		Sie können als Bildfrage auch eine Abbildung aus dem Vorlagenkatalog (Templates) wählen.

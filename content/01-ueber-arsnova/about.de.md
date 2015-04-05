@@ -4,6 +4,8 @@ Icon: radar
 ----
 Text:
 
+### Online-Rückkanal
+
 ARSnova ist ein innovatives (link: https://de.wikipedia.org/wiki/Audience_Response_System text: Audience Response System title: Wikipedia-Artikel zum Begriff ARS popup: yes). Es hilft, Vorlesungen, Übungen und Seminare interaktiv zu gestalten, indem es einen Online-Rückkanal zwischen Auditorium und Lehrperson ermöglicht. Studierende können mit dem Smartphone anonym Feedback geben:
 
 * vor der Vorlesung durch Beantworten von Vorbereitungsfragen,
@@ -11,7 +13,7 @@ ARSnova ist ein innovatives (link: https://de.wikipedia.org/wiki/Audience_Respon
 * spontan per Live Feedback zum Tempo und Verständnis der Vorlesung,
 * jederzeit durch Stellen eigener Fragen an die Lehrperson.
 
-Eine Beschreibung der didaktischen Funktionen von ARSnova finden Sie hier im Handbuch unter "Einsatz-Szenarien" oder detailliert im (link: https://arsnova.eu/blog/features text: Projekt-Blog popup: yes). Eine kleine Bedienungshilfe anhand von Screenshots stellen wir Ihnen unter "Rolle Dozent/in" und "Rolle Student/in" zur Verfügung. Der Link zum Handbuch befindet sich nach der Anmeldung in der Navigationsleiste unten.
+Eine Beschreibung der didaktischen Funktionen von ARSnova finden Sie im Handbuch unter "Einsatz-Szenarien" und detailliert im (link: https://arsnova.eu/blog/features text: Projekt-Blog popup: yes). Eine Schnellhilfe anhand von Screenshots zu den Anwendungsfällen von ARSnova steht Ihnen unter "Rolle Dozent/in" und "Rolle Student/in" zur Verfügung. Das Handbuch finden Sie nach der Anmeldung in der unteren Navigationsleiste.
 
 ### Frageformate  
 
@@ -20,18 +22,18 @@ Für die Erstellung von Fragen bietet ARSnova differenzierte Vorlagen an:
 * Mehrfachauswahl (MC: Multiple Choice)
 * Einfachauswahl (SC: Single Choice)
 * Entscheidungsfragen (Ja/Nein)
-* Offene Fragen (Freitext)
+* Offene Fragen (Freitextantworten)
 * Bewertungsskala nach Schulnoten
 * Evaluation mit editierbarer Likert-Skala
 * Rasterbasierte Bildfragen (Planquadrate auf Foto oder Abbildung bestimmen)
 * Punktabfragen nach der Moderationsmethode
-* Lernkarten zum Selbststudium
+* Lernkarten zum Selbststudium (Session als Lernkartei)
 
-Jedes Frageformat hat eine Option für Enthaltung. Bewertbare (richtig/falsch) Antwortoptionen können für die Lernstandsberechnung gewichtet werden. Auswahlfragen (MC, SC, Ja/Nein) können in zwei Abstimmungsrunden für eine Vorher-Nachher-Analyse gestellt und die Antworten im Balkendiagramm verglichen werden. Die Freigabe der Antwortstatistik und der richtigen Antwortoptionen ist für jede Frage einstellbar. Im Fragetext und in Freitext-Antworten kann TeX-Formelsatz verwendet werden. Die Lehrperson kann im Präsentationsmodus der Fragen einen Countdown-Timer (1-20 Minuten) aktivieren, der bei Ablauf die Abstimmung beendet.
+Jedes Frageformat hat eine Option für Enthaltung. Bewertbare (richtig/falsch) Antwortoptionen können für die Lernstandsberechnung gewichtet werden. Auswahlfragen (MC, SC, Ja/Nein) können in zwei Abstimmungsrunden für eine Vorher-Nachher-Analyse gestellt und die Antworten im Balkendiagramm verglichen werden. Die Freigabe der Antwortstatistik und der richtigen Antwortoptionen ist für jede Frage einstellbar. Im Fragetext und in Freitextantworten kann TeX-Formelsatz verwendet werden. Die Lehrperson kann im Präsentationsmodus der Fragen einen Countdown-Timer (1-20 Minuten) aktivieren, der bei Ablauf die Abstimmung beendet.
 
 ### Demo-Session
 
-Zum Kennenlernen der ARSnova-Funktionen haben wir eine Demo-Session eingerichtet. Geben Sie nach der Anmeldung in der Rolle Student/in die **Session-ID 71 07 36 92** ein oder klicken Sie auf diesen (link: https://arsnova.eu/mobile/#id/71073692 text: Direktlink zur Demo title: Link zur Demo-Session). Sie finden die Demo-Session auch im Pool, der Ihnen als grüne Wolke auf der Session-Übersichtsseite angeboten wird. In der Dozentenrolle können Sie diese kopieren und die dozentenspezifischen Funktionen ausprobieren. 
+Zum Kennenlernen der ARSnova-Funktionen haben wir eine Demo-Session eingerichtet. Geben Sie nach der Anmeldung in der Rolle Student/in die **Session-ID 71 07 36 92** ein oder klicken Sie auf diesen (link: https://arsnova.eu/mobile/#id/71073692 text: Direktlink zur Demo title: Link zur Demo-Session). Sie finden die Demo-Session auch im Pool, der Ihnen als grüne Wolke auf der Session-Übersichtsseite angeboten wird. In der Dozentenrolle können Sie diese kopieren und die dozentenspezifischen Funktionen ausprobieren.
 
 ### Lizenz
 

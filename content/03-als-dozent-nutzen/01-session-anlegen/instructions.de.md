@@ -1,11 +1,11 @@
-Title: Eine neue Session anlegen
+Title: Eine neue Session anlegen und QR-Code erzeugen
 ----
 Instructions:
 -
 	instruction:>
 		Wählen Sie die Rolle Dozent/in. Später können Sie Ihre Session in der Rolle Student/in testen.
 	result: >
-		⇒ Sie kommen auf die Anmeldungsseite...
+		⇒ Sie kommen auf die Anmeldeseite...
 -
 	instruction:>
 		Zum Kennenlernen von ARSnova wählen Sie den Gast-Login.
@@ -15,25 +15,25 @@ Instructions:
 	instruction:>
 		Bestätigen Sie den Hinweis.
 	result: >
-	 ⇒ Sie gelangen auf die Übersichtsseite eigener und besuchter Sessions...
+	 ⇒ Sie gelangen auf die Übersichtsseite für die eigenen und als Student/in besuchten Sessions...
 -
 	instruction:>
 		Klicken Sie auf den Button "Neue Session anlegen".
 	result: >
-	 ⇒ Sie kommen auf die Seite, wo Sie die Session benennen müssen...
+	 ⇒ Sie kommen auf die Seite, wo Sie die neue Session benennen müssen...
 -
 	instruction:>
 		Geben Sie einen Lang- und einen Kurznamen ein und klicken Sie auf "Session anlegen".
 	result: >
-	 ⇒ Im nächsten Schritt wird eine 8-stellige Zahl als Session-ID für die Studierenden generiert...
+	 ⇒ Im nächsten Schritt wird eine 8-stellige Zahl als Session-ID für die Studierenden erzeugt...
 -
 	instruction:>
-		Mit "Weiter" werden Sie auf die Zugangsbeschränkung Ihrer Session hingewiesen.
+		Die Kenntnis der Session-ID genügt, um als Gast in der Rolle Student/in die Session zu besuchen.
 	result: >
-		☞ Der Zugang zur Session in der Dozentenrolle ist am gewählten Login gebunden.
+		☞ Der Zugang zur Session in der Dozentenrolle ist immer am gewählten Login gebunden.
 -
 	instruction:>
-		Bestätigen Sie den Hinweis mit "Weiter".
+		Bestätigen Sie den Hinweis zur Zugangsbeschränkung mit "Weiter".
 	result: >
 	 ⇒ Sie kommen auf die Startseite Ihrer neuen Session...
 -

@@ -16,6 +16,6 @@ Anonymes Live Feedback des Auditoriums zum Verständnis des gerade stattfindende
 
 (image: arsnova-overlay.png class: center caption: ARSnova Overlay für die Folien-Präsentation)
 
-Ein Balkendiagramm oder Emoticons (Smileys) visualisieren das Feedback des Auditoriums zum aktuellen Verständnis und Tempo der Präsentation. Das rote Badge auf dem Brief-Icon zeigt die Anzahl Zwischenfragen, die während des Vortrags in ARSnova eingegeben wurden. Der Feedback-Monitor ist 200 x 200 Pixel groß und kann in einer beliebigen Projektionsecke positioniert werden.
+Ein Balkendiagramm oder Emoticons (Smileys) visualisieren das Feedback des Auditoriums zum aktuellen Verständnis und Tempo der Präsentation. Der rote Badge auf dem Brief-Icon zeigt die Anzahl Zwischenfragen, die während des Vortrags in ARSnova eingegeben wurden. Der Feedback-Monitor ist 200 x 200 Pixel groß und kann in einer beliebigen Projektionsecke positioniert werden.
 
 Informationen zur (link: https://arsnova.eu/blog/blog/arsnova-auf-dem-desktop-wenn-sie-mehr-zeigen-wollen/ text: Desktop-App "ARSnova Overlay") finden Sie im Blog.

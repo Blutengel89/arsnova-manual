@@ -1,4 +1,4 @@
-Title: Lernstandsberechnung wechseln
+Title: Lernstandsberechnung umstellen
 ----
 Instructions:
 -
@@ -10,9 +10,9 @@ Instructions:
 	instruction: >
 		Sie können die Berechnungsformel umstellen. Klicken Sie hierzu auf den Wechselschalter.
 	result: >
-		☞ Der jeweilige Text erläutert die Unterschiede der Berechnung.
+		☞ Der jeweilige Text erläutert die Unterschiede zwischen fragen- und punktbasierter Berechnung.
 -
 	instruction: >
-		Die letzte Einstellung wird für die Session gespeichert.
+		Ihre letzte Einstellung wird für die Session gespeichert.
 	result: >
-		☞ Die Lehrperson kann die Berechnung für den Kurs setzen. 
+		☞ Die Lehrperson kann die Standard-Berechnungsart für den ganzen Kurs setzen.

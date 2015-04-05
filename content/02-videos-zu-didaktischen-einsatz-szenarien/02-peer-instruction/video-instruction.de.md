@@ -6,7 +6,7 @@ Text:
 Erklärvideo der Hochschule Amberg-Weiden:
 (link: https://www.youtube.com/watch?v=T3FTTVFPglw text: Qualitätspakt Lehre: Peer Instruction als Beispiel neuer Lehrmethoden)
 ****
-Peer Instruction, entwickelt von Eric Mazur, ist eine seit Jahren empirisch erforschte und bewährte Lehrmethode, um mehr Interaktion und Engagement auch in großen Vorlesungen zu schaffen. Sie ersetzt den Frontalunterricht durch Partner- und Kleingruppenarbeit mit den Sitznachbarn zu einer konzeptionellen Frage des Faches.
+Peer Instruction, entwickelt von Eric Mazur, ist eine seit Jahren empirisch erforschte und bewährte Lehrmethode, um mehr Interaktion und Engagement auch in großen Vorlesungen zu ermöglichen. Sie ersetzt den Frontalunterricht durch Partner- und Kleingruppenarbeit mit den Sitznachbarn zu einer konzeptionellen Frage des Faches.
 
 Mit Peer Instruction wird die klassische 90-Minuten-Vorlesung durch drei bis vier Konzeptfragen strukturell aufgebrochen:
 

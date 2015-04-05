@@ -13,6 +13,6 @@ Instructions:
 		⇒ Sie kommen auf die Live-Feedback-Seite...
 -
 	instruction:>
-		Sie können hier direkt auf die Smileys klicken, um Ihr Feedback zu aktualisieren.
+		Sie können im Balkendiagramm direkt auf die Smileys klicken, um Ihr Feedback zu aktualisieren.
 	result: >
 		☞ Ihr letztes Feedback wird nach 10 Minuten zurückgesetzt.
