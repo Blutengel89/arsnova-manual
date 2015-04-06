@@ -6,13 +6,14 @@
   	</ol>
 	<!-- Wrapper for slides -->
 	<div class="toggle-temp carousel-inner">
-		<?php 
+		<?php
 			$image = $images->first();
 			foreach($instructions as $instruction) :?>
 				<div class="item <?php if($count == 1): echo 'active'; endif;?>">
+						<img class="screenshot" src="<?php echo $image->url() ?>" alt="<?php echo $page->title() . "-" . $count ?>" />
 						<div class="carousel-caption">
 							<?php if($instruction['instruction'] != ""): ?>
-								<div class="instruction-item clearfix">	
+								<div class="instruction-item clearfix">
 									<span class="list-counter"><?php echo $count . ". "?></span><span class="instruction-text"><?php echo $instruction['instruction']; ?></span>
 								</div>
 							<?php endif ?>
@@ -20,7 +21,6 @@
 								<div class="result-text"><?php echo markdown($instruction['result']) ?></div>
 							<?php endif; ?>
 						</div>
-						<img class="screenshot" src="<?php echo $image->url() ?>" alt="<?php echo $page->title() . "-" . $count ?>" /> 
 				</div>
 				<?php $count++; $image=$images->next();
 			endforeach;?>
@@ -31,5 +31,5 @@
 	</a>
 	<a class="right carousel-control" href="#carousel-<?php echo $page->uid();?>" data-slide="next">
 		<span class="glyphicon glyphicon-chevron-right"></span>
-	</a>		
-</div>	
+	</a>
+</div>
