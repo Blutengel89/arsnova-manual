@@ -50,4 +50,4 @@ Instructions:
 	instruction:>
 		Nutzen Sie die Vorschau Ihrer Texteingaben, um die Darstellung auf kleinen Displays zu prüfen.
 	result: >
-		⇒ Die Vorschau der Antworten zeigt die Statistik mit zufälligen Werten und der richtigen Antwort.
+		☞ Die Vorschau der Antworten zeigt die Statistik mit zufälligen Werten und der richtigen Antwort.

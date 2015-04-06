@@ -3,7 +3,7 @@ Title: Fragen der Lehrperson beantworten
 Instructions:
 -
 	instruction: >
-		Auf der Startseite wählen Sie im Menü "Vorbereitungsfragen" oder "Hörsaalfragen".
+		Auf der Startseite wählen Sie in der Menü-Liste "Vorbereitungsfragen" oder "Hörsaalfragen".
 	result: >
 		☞ Der 1. Badge ist die Zahl unbeantworteter Fragen, der 2. Badge die aktuelle Stimmabgabe.
 -

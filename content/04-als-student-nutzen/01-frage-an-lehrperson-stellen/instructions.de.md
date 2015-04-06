@@ -33,6 +33,6 @@ Instructions:
 		☞ Die Liste Ihrer anonymen Fragen sieht nur die Lehrperson, sonst niemand.
 -
 	instruction:>
-		Genau so sieht die Lehrperson Ihre Frage mit Datum und Uhrzeitund kann sie auch löschen.
+		Genau so sieht die Lehrperson Ihre Frage mit Datum und Uhrzeit und kann sie auch löschen.
 	result: >
 		☞ Ihre Fragen werden in der thematischen Übersicht in umgekehrter zeitlicher Folge gelistet.

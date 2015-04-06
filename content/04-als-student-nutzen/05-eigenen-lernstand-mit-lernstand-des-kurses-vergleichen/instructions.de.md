@@ -3,9 +3,9 @@ Title: Lernstandsberechnung umstellen
 Instructions:
 -
 	instruction: >
-		Auf der Startseite sehen Sie unten eine Prozentzahl für Ihren aktuellen Lernstand.
+		Auf der Startseite sehen Sie unten in der Menü-Liste eine Prozentzahl für Ihren aktuellen Lernstand.
 	result: >
-		☞ Die Lehrperson sieht nur den Lernstand des Kurses (zweiter Prozent-Badge).
+		☞ Die Lehrperson sieht nur den Lernstand des Kurses (zweite Prozentzahl).
 -
 	instruction: >
 		Sie können die Berechnungsformel umstellen. Klicken Sie hierzu auf den Wechselschalter.
