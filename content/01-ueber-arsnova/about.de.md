@@ -37,7 +37,7 @@ Zum Kennenlernen der ARSnova-Funktionen haben wir eine Demo-Session mit realisti
 
 ### Best Practices
 
-Wenn Sie motiviert sind, ARSnova in Ihrem Unterricht einzusetzen, empfehlen wir Ihnen unsere (link: https://arsnova.eu/blog/best-practices/ text: Best Practices title: Zum Projekt-Blog...).
+Wenn Sie motiviert sind, ARSnova in Ihrem Unterricht einzusetzen, empfehlen wir Ihnen unsere technischen und didaktischen (link: https://arsnova.eu/blog/best-practices/ text: Best Practices title: Zum Projekt-Blog...).
 
 ### Lizenz
 
