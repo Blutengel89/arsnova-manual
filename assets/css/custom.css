@@ -126,7 +126,6 @@ a:active {
 }
 .btn-default.home {
   margin-top: 0px;
-  border: none;
 }
 .btn-default.home a {
   color: #4a5c66;
@@ -386,10 +385,11 @@ figure.video {
   height: 100%;
   border: none;
 }
-span[class^="icon-"].overview,
-span[class*=" icon-"].overview {
+div[class^="icon-"].overview,
+div[class*=" icon-"].overview {
   line-height: 1.6em;
   padding-right: 10px;
+  position: fixed;
 }
 figure.center {
   text-align: center;
@@ -409,6 +409,7 @@ figure > img {
   border-radius: 15px;
 }
 .home {
+  z-index: 999;
   position: fixed;
-border
+  border: 1px solid #e0e0e0;
 }
