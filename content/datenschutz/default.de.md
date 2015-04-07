@@ -1,4 +1,4 @@
-Title: Datenschutzerklärung
+Title: Hinweise zum Datenschutz
 ----
 Icon: lock
 ----

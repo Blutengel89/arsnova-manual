@@ -1,10 +1,10 @@
-Title: Impressum
+Title: Anbieter des Webdienstes ARSnova
 ----
 Icon: info
 ----
 Text:
 **Technische Hochschule Mittelhessen**
-Hochschule für angewandte Wissenschaften
+Hochschule für Angewandte Wissenschaften
 Wiesenstraße 14, 35390 Gießen
 Telefon: +49 641 3090, Telefax: +49 641 3092901
 E-Mail: praesident@thm.de

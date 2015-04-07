@@ -35,6 +35,10 @@ Jedes Frageformat hat eine Option "Enthaltung". Bewertbare (richtig/falsch) Antw
 
 Zum Kennenlernen der ARSnova-Funktionen haben wir eine Demo-Session mit realistischen Fragen in verschiedenen Formaten eingerichtet: Geben Sie nach der Anmeldung in der Rolle Student/in die **Session-ID 71 07 36 92** ein oder klicken Sie auf diesen (link: https://arsnova.eu/mobile/#id/71073692 text: Direktlink zur Demo title: Link zur Demo-Session). Sie finden die Demo-Session auch im Pool, der Ihnen als grüne Wolke auf der Session-Übersichtsseite angeboten wird. In der Dozentenrolle können Sie die Demo-Session kopieren und die dozentenspezifischen Funktionen ausprobieren.
 
+### Best Practices
+
+Wenn Sie motiviert sind, ARSnova in Ihrem Unterricht einzusetzen, empfehlen wir Ihnen unsere (link: https://arsnova.eu/blog/best-practices/ text: Best Practices title: Zum Projekt-Blog...).
+
 ### Lizenz
 
 Bildungseinrichtungen können den Webservice **arsnova.eu** kostenlos und ohne Registrierung frei nutzen. Die Software steht unter einer (link: https://arsnova.github.io/home.html text: Open-Source-Lizenz title: ARSnova bei GitHub popup: yes) und kann auf eigenen Servern betrieben werden.
