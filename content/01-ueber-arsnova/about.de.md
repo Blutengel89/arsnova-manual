@@ -6,14 +6,14 @@ Text:
 
 ### Online-Rückkanal
 
-ARSnova ist ein innovatives (link: https://de.wikipedia.org/wiki/Audience_Response_System text: Audience Response System title: Wikipedia-Artikel zum Begriff ARS popup: yes). Es hilft, Vorlesungen, Übungen und Seminare interaktiv zu gestalten, indem es einen Online-Rückkanal zwischen Auditorium und Lehrperson ermöglicht. Studierende können mit dem Smartphone anonym Feedback geben:
+ARSnova ist ein innovatives (link: https://de.wikipedia.org/wiki/Audience_Response_System text: Audience Response System title: Wikipedia-Artikel zum Begriff ARS popup: yes). Es hilft, Vorlesungen, Übungen und Seminare interaktiv zu gestalten, indem es einen Rückkanal zwischen Auditorium und Lehrperson ermöglicht. Studierende können mit dem Smartphone anonym Feedback geben:
 
 * vor der Vorlesung durch Beantworten von Vorbereitungsfragen,
 * während der Vorlesung durch Beantworten von Hörsaalfragen,
 * spontan per Live Feedback zum Tempo und Verständnis der Vorlesung,
 * jederzeit durch Stellen eigener Fragen an die Lehrperson.
 
-Eine Beschreibung der didaktischen Funktionen von ARSnova finden Sie im Handbuch unter "Einsatz-Szenarien" und detailliert im (link: https://arsnova.eu/blog/features text: Projekt-Blog popup: yes). Eine Schnellhilfe anhand von Screenshots zu den Anwendungsfällen von ARSnova steht Ihnen unter "Rolle Dozent/in" und "Rolle Student/in" zur Verfügung. Das Handbuch finden Sie nach der Anmeldung in der unteren Navigationsleiste.
+Eine Beschreibung der didaktischen Funktionen von ARSnova finden Sie im Handbuch unter "Einsatz-Szenarien" und detailliert im (link: https://arsnova.eu/blog/features text: Projekt-Blog title: Zum Blog des ARSnova-Projekts). Eine Schnellhilfe anhand von Screenshots zu den Anwendungsfällen von ARSnova steht Ihnen unter "Rolle Dozent/in" und "Rolle Student/in" zur Verfügung. Das Handbuch finden Sie nach der Anmeldung in der unteren Navigationsleiste.
 
 ### Frageformate  
 
@@ -22,14 +22,14 @@ Für die Erstellung von Fragen bietet ARSnova differenzierte Vorlagen an:
 * Mehrfachauswahl (MC: Multiple Choice)
 * Einfachauswahl (SC: Single Choice)
 * Entscheidungsfragen (Ja/Nein)
-* Offene Fragen (Freitextantworten)
+* Offene Fragen (Freitext mit der Option, ein Foto als Antwort hochzuladen)
 * Bewertungsskala nach Schulnoten
 * Evaluation mit editierbarer Likert-Skala
 * Rasterbasierte Bildfragen (Planquadrate auf Foto oder Abbildung bestimmen)
 * Punktabfragen nach der Moderationsmethode
 * Lernkarten zum Selbststudium (Session als Lernkartei)
 
-Jedes Frageformat hat eine Option "Enthaltung". Bewertbare (richtig/falsch) Antwortoptionen können für die Lernstandsberechnung mit Punkten im Intervall [-10, 10] gewichtet werden. Auswahlfragen (MC, SC, Ja/Nein) können in zwei Abstimmungsrunden für einen Vorher-Nachher-Vergleich gestellt und im Balkendiagramm abgebildet werden. Die Freigabe der Antwortstatistik und der richtigen Antwortoption ist für jede Frage einstellbar. Im Fragetext und in Freitextantworten kann TeX-Formelsatz verwendet werden. Die Lehrperson kann im Präsentationsmodus der Fragen einen Countdown-Timer (1-20 Minuten) aktivieren, der bei Ablauf die Abstimmung beendet.
+Jedes Frageformat hat eine Option "Enthaltung". Bewertbare (richtig/falsch) Antwortoptionen können für die Lernstandsberechnung mit Punkten im Intervall [-10, 10] gewichtet werden. Auswahlfragen (MC, SC, Ja/Nein) können in zwei Abstimmungsrunden für einen Vorher-Nachher-Vergleich gestellt und im Balkendiagramm abgebildet werden. Die Freigabe der Antwortstatistik und der richtigen Antwortoption ist für jede Frage einstellbar. Im Fragetext und in Freitextantworten kann (link: https://arsnova.eu/blog/question/wie-kann-ich-mathematische-formeln-auszeichnen/ text: TeX-Formelsatz title: FAQ zu TeX-Formelsatz) verwendet werden. Die Lehrperson kann im Präsentationsmodus der Fragen einen Countdown-Timer (1-20 Minuten) aktivieren, der bei Ablauf die Abstimmung beendet.
 
 ### Demo-Session
 
